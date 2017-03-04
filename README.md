@@ -1,2 +1,2 @@
-# web-scraper
-For web scraping purposes
+# kickstarter
+Kickstarter description text analysis for successful vs. failed campaigns. Top 20 words.

@@ -1,0 +1,492 @@
+I'm creating a Arduino/Raspberry Pi robot car with an API for controlling it with any device capable of sending HTTP Requsts
+Opobotics Inc. has created an entertainment robot which is more a friend than a robot. Sopo is family oriented and great for learning.
+Help our great Team to get to Johannesburg. 11 talented kids will defend Denmark in the World championships. Find us on facebook.
+"Technology is the campfire around which we tell our stories."      --- Laurie Anderson
+I want to create a vending machine that holds frozen vegetable. that would vend to a microwave, and has a smart phone app synced toit.
+Affordable Raspberry Pi based autonomous robot
+Cards are distributed automatically for you! Perfect for the Bridge players and other games.
+il distribue les cartes a votre place !
+a 100% solar powered GPS guided fully autonomous boat that will travel  24/7 day or night around the world non stop.
+Discover a new way to build robots with this highly configurable tracked robot kit built around the Xilinx Spartan 6 FPGA.
+We are in desperate needs of donations so our High School Robotics team can go to the FRC World Championship in St Louis
+Winston v1 was built around a robotic arm that uses dispensers to mix cocktails. We aim to construct a standardized, reproducible v2.
+This is a final project for my school. I want to make a robot arm because I believe it isn't to difficult to make the thing.
+We're building a giant piloted walking robot and so can you! The Mk I is 10ft tall, 5000lbs, and you can drive it!
+Support our TSTC Harlingen Students by funding robot contest & scholarship drive by contributing to this campaign.
+Control smart servos and interface with Grove and RobotGeek plug-in sensors with the DynamixShield for the Arduino Due.
+Sexy Six Axis Robotic Arm on a Budget, A cheep solution for heavy robotic operations. Build from plans, order a kit, order completed.
+The only lawnmower with air conditioning and cab heat in the world for 7900!
+A kit for building home robots, hardware and small technology projects
+El robot FAM será la solución a los problemas de salud relacionados con fumigación y ventaja estratégica en el combate contra plagas.
+Child rover to be deployed from a preexisting Mother rover that rappels a 90º vertical surface to a depth of up to 5m to take a picture
+Team based RC Robotics Competition, RC WiFi Radix Receiver replacement for RC. 3D printable add-ons for RC. USB game controllers
+Learn electronics and robotics with fun. A hexapod robot with lots of sensors. Android remote controlled or even autonomous.
+APT: Airport Personal Transport // An automated, all-electric vehicle designed to navigate you through the airport.
+Slackbot bot is a talking robot that obeys basic Slack commands, plays music, gives high-fives, and more.
+Control your stove from your phone. Yes, this is a bad idea.
+Airstring is a small, easy to use, GSM telemetry module for your drone
+Low-Cost LiDAR for Educational, Embedded System and Robotic Use. Open Source hardware for the garage and classroom tinkerer!
+Prototype Rhino emergency extraction robot
+creating fully animatronic underskulls for a wide range of applications from medical to screen props, or just a halloween spectacular.
+Stair-lift is intended to help people with motion disability. Order online and install easily, like a wardrobe.
+A excellent platform for anyone to get into robotics, just simply solder in the required parts & see you creations come to life!
+CSULA Electrical Engr Graduate student who wants to teach  undergraduate students how to implement a PID controller through a workshop.
+L'habitat symbiotique est un système complexe mécanisé et autonome qui produit et recycle : eau, nourriture, énergie, matériaux...
+A simple, robust, open source design studio and robot controller for both hobbyist and professional robotics.
+Engaging students' minds. Encouraging scientific education and exploration. Promoting collaborative learning. ROBOT BUILDING!
+The first modular robot kit designed to explore android and human interactions.
+Keep your hull clean respecting the environment and saving your pocket! By using it, lower fuel consumption and increased performance!
+A remote controlled electric mower for people who can't or just don't like the tedious task of cutting grass and its fun for all ages!
+We are building a 6 wheeled all terrain heavy lifting robot because it will be awesome.The final version will be large enough to seat 2
+G.E.N.E.S.I.S. is an affordable, expandable, and interactive robot, w/ sensors, voice recognition, speech, and an array of servo-motors
+Purchase Arduino based hardware for upcoming robotic competitions, and teach kids how to program using lines of code.
+HEW is your friendly, easy-to-use 6 axis articulated robot arm who comes with a range of grippers and colours. Its your choice!
+Single and multiple source dispenser unit. Biggest list of recipe available. Dispense everything you want, quick and simple.
+Smart Shoot, the first Intelligent Shooting Robot, bring you face recognition, intelligent tracking and free hand shooting by phone.
+Creating stunning imagery through the use of advanced drones in Lexington Virginia and the surrounding area.
+A true personal robot for development of consumer robotics applications.
+As a fan of Call of Duty I want to bring the MQ-27 to life! With a bit of help we can make it a reality!
+aSteam Village students will design and build a challenge-related model using Lego components while learning math and science.
+Después de enseñar en el ITESM por años, decidí crear un shield para Arduino que sea barato y enseñe al máximo robótica y programación.
+Southern California's premier student-run FIRST robotics team.
+CVTM Robotics FTC Team 6966 is fundraising to start a second FTC team at the Champlain Valley Transportation Museum.
+We are offering a robots for kids, parents and grandparents workshop. We will offer in community centers, public libraries and schools.
+ThynkBot is a mind-controlled robot that uses with the power of your brainwaves.
+Table-mounted coconut scraper with speed control.
+Implementing S.T.E.A.M (Science, Technology, Engineering, Arts, Math)  activities, creating opportunities to stimulate brain activity
+ORV is an all season, all electric, easy to use device for all of your outdoor needs from gardening to landscaping to snow removal.
+Kumo is a cup-size robot that tells you the daily network notifications.
+Kumo can create text and voice messages to your mobile phone.
+CNC 3D Printer Combo Tool
+A fully automated robot that will: play simon says, twist a rubik's cube, draw and pick up a card as it follows an unknown course.
+Allows disabled and elderly to mow from inside their house using High Definition Live Video Feed directly to users television.
+The MeArm Pi is the world's first robot arm kit for the Raspberry Pi. Build it and take control of the world around you!
+An affordable and easy to use desktop Plotter, Laser Cutter and Engraver.
+Play soccer and have fun learning ...
+Learn science and play brain-teasing games with the world's first walking, talking, and amazingly expressive Einstein robot
+Playful immersion in advanced STEM. Teachable robots solve kid-built mazes with artificial intelligence. Supports 2 Hexbug Spiders.
+Dexter is a robotic arm powered by an FPGA supercomputer. 5+ axis, trainable and a friendly UI.  It becomes your personal factory.
+DROBOT X est spécialisé dans la conception de park indoor dédié à la Drobotique games éducative. Le jeu vidéo grandeur nature.
+Real Steel robots fights is coming a reality. The Future Is Now. Bringing Robots Fights to real life in the wrestling ring as a show
+AI Professor helps your child to learn – together with state of the art Robotic Platform - think of 3D-spherical-mobile Super-iPad
+Born at Harvard University, Root drives on walls (or tables) to make games and coding challenges that reinforce computational thinking.
+Wherever you are, BOCCO can keep you connected to your family.
+Mirobot is a DIY WiFi robot designed to help children learn about technology and programming. It's open source and fun to build and use
+Low cost, easy to build and simple to control, MeArm is designed to make learning with robotics accessible for everyone.
+The future of ocean exploration is here.
+We are engineers and explorers who plan to help Yellowstone scientists make what could be tomorrow's greatest discoveries.
+Mousr is the first robotic cat toy that can see and react to a cat’s movements just like real prey. Think Pinky with a brain.
+Easy, affordable, feature packed Arduino robot.  Comes w/ sensors motors and more. Great intro to programming/electronics/robots
+Make your own toys! Build and program quirky robots, blinking outfits and weird sounding creatures out of regular drinking straws
+Bartendro is a modular and open-source cocktail dispensing robot!
+TiddlyBot is a simple little funbot with some amazing features. It draws, follow lines, and helps with the learning of technology.
+Ringo is a cute Arduino based digital pet robot with an accelerometer, gyrosocope, 6x RGB LED lights, sound, and communication sensors.
+We need your help to create the giant combat robot America deserves. With you and our amazing partners, together we can defeat Japan!
+Robotic Hexapod kit. Cute, cheap, easy and fun intro to advanced robots. Arduino-powered, and all Open Hardware/Software.
+OpenROV is an open-source underwater robot for exploration and education. We want to provide kits for the DIY community.
+An efficient, rugged, affordable underwater thruster to propel the future of marine robotics and ocean exploration.
+A low-cost, open-source, Arduino-compatible balancing robot for learning, hacking and delight
+Don’t just make pancakes. Create them! Introducing PancakeBot - The coolest addition to your kitchen. *Batter not included
+Build your own robots with MOSS! Simple, fun, magnetic robot construction kits. No coding, no wires, oodles of configurations!
+Low-cost precision robotic arm for 3D printing, light-duty milling, and electronics assembly.
+Introducing the Mine Kafon Drone, an airborne demining system  developed to clear all land mines around the world in less than 10 years
+Oil spilled moves downwind : we are sailing upwind to capture it. Protei is an ocean cleaning and research open hardware drone.
+Sesame replaces your keys with your phone in seconds. It also fits on your lock in seconds, without removing or swapping anything.
+Lightning-fast robots you can build, program and evolve.
+With a focus on STEAM education; PopPet is expandable, customizable, easy to assemble, small, fun and a great intro into robotics.
+A LEGO® compatible robotics toy for all kids. 
+Play, Code & Innovate to develop 21st century skills
+Making thinking tangible by programming robots in early childhood
+Photon is the first robot that develops together with your child. It makes a child's first steps into the world of technology!
+Accelerating research with open, affordable, & easy-to-use lab robots. We empower people to innovate with biotech.
+Open Source. Huge (span of nearly 6 feet) computer-controlled robot arm/camera crane. Clean up your room or take cool videos.
+FIRST is teaching our Dunlap, IL HS team valuable hands-on engineering and communication skills by building a robot in six weeks!
+See the world in a new way with a full HD underwater drone that's easy to use, modular, portable, and exceptionally affordable.
+We want to build a STEM kit that gets kids excited about technology and what they can do with it.
+Meet Edison - the super affordable, programmable robot. Your stepping stone into the exciting world of science and technology!
+Makers embarking on a mission to collect debris from shorelines using a robot — faster & reaching remote locations
+Ai.Frame is an open-source,miniature humanoid robot. Versatile, abundant upgrades,customizable commands,pre-assembled or self-assembly.
+Make and program robots, animatronics, and more with Hummingbird Duo. Duo grows with your abilities, the sky is the limit!
+Make cool stuff faster. Robotic Minion Start Kit is an Ardiuno Compatible with the basics built in. Get projects running in no time.
+Online introduction to engineering course + sweet drawing robot arm kit. Starts Feb 2014, taking 100 students. engineering = creativity
+For DESKTOP. Arduino-based, 4-axis parallel-mechanism Robot Arm, 0.2mm precision! Bring industrial robot to everyone. Effective tool.
+Kamibot is a programmable papercraft robot for kids. They can endlessly customize it with their own code and colorful skins.
+We're building a fleet of autonomous sailing robots to study the oceans. Each boat can sail itself anywhere & send data back to shore.
+The TROLLLER 1D is an educational/hobby robot that can crawl (like a caterpillar) or curl itself into a circle and roll itself around.
+As the UK's first robot, Eric has a unique place in history. Join the Science Museum and help bring Eric back to life.
+A Real Robotics platform accessible to beginners and experts. Learn skills in Coding, 3D Printing, Design, Electronics and Robot Math.
+Professional SCARA based robotic arm with interchangeable heads and computer vision. 3D print, laser engrave, solder, pick & place...
+Meet Stompy: An open-source, 18ft wide, 4,000 pound, 6-legged hydraulic robot that you can ride.
+Create animatronic robots and learn microcontrollers, mechanics and papercraft.
+TJ* is an customizable robot performer / tech toy for you or your kids! Make his eyes and mouth move via servos over Arduino!
+A system to design and build things in an easy way. Specially Robots. And it's Open Source.
+Sweep is a scanning LiDAR sensor designed to bring powerful 360 degree sensing capabilities to everyone for an affordable price.
+A low cost desktop robot arm for STEM and hobby projects
+PLEN2 guides you to the advanced technology world and help you grow. Anyone can easily build and personalize it.
+A project to create a human sized animatronic character from only laser cut mechanics and off the shelf hobby servos.
+By using 3D printing we can dramatically cut the cost of humanoid robotics. Make the future happen faster.
+Gocupi includes hardware and software that allow your Raspberry Pi to be a polargraph of epic proportions.
+We're trying to build an appropriately armored robot arena to hold our very awesome robotic battles in.
+A new way for kids to make basic robots, learn beginner logic and programming while being on a budget.
+The robot kit with a new mission delivered monthly.
+A free one-day event where participants make projects that have no value whatsoever.
+Build your own customized balancing robot and gain first hand experience in Programming, Robotics, and 3D Design.
+mDrawBot is a 4-in-1 drawing robot kit, it can be assembled into 4 different drawing robots: mScara, mCar, mSpider and mEggBot.
+Please support SnotBot: Join Patrick Stewart and give us the tools to help save whales, our oceans and ultimately humanity.
+Two years ago, we launched the T100 Thruster for marine robotics. Today we commemorate that with a Make/100 limited edition thruster!
+Design your own rover missions! Learn Python, C/C++, and Linux along the way with this open and endlessly hackable robot.
+The SlushEngine is an advanced motor driver that works with the Raspberry Pi to move motors with precision, speed, and simplicity.
+Build your own robots. Connect them to the Web. Develop and share your passion. Building robots has never been so easy and affordable.
+Build better bots!  A 3D printed robotics platform that is easy to hack, make, use and sustain.  Some assembly required.
+Your own robot for only £5! 100% battery free and the basis for infinite figures of your own invention. Turn anything into a Robot!
+Formula Pi is an autonomous racing series and robot racing club based around the Raspberry Pi.
+Low cost Arduino based STEM education pet robot. Transition from graphical style programming to written code the easy way!
+SHE'S THE WHOLE PACKAGE: a personal assistant, photographer, storyteller, telepresence device & the smartest home automation system.
+Plobot is a robot companion that teaches programming logic through storytelling and play - with cards instead of screens.
+ONE ROBOT PER KID.
+mBot is the easiest educational robot for kids to learn programming, Arduino and robotics.
+Parents of the Steel Hawks - NYC Public High School Team - 2015 Competition Season - Unlimited Passion - Limited Resources
+BIG-i is here to help you and your family. Simply tell BIG-i what needs to be done, it brings convenience of the future into your home.
+Three times more air time then any other quad. The newest modular drone from Easy Aerial deploys in one minute and flies for 45
+A low-cost, simple, programmable, expandable, open source robot kit that is also a maker platform with add-ons for physical computing
+Animated Lure is a mechanized, self-propelling fishing lure that is electronically programmed to swim like a real fish.
+SkyBot is an intelligent (and affordable!) complete robotics kit for anyone interested in drone technology!
+Codeybot, The Fully Customizable Robot, Teaches Coding, Dances, Plays Music, and Shoots Lasers
+uArm is an Arduino-powered desktop 4-axis parallel-mechanism robot arm, modeled after the ABB industrial PalletPack robot.
+High school kids are building a powered exoskeleton. We've made a lot of progress, but we need your help to finish the project!
+This machine prints pancakes in shapes drawn on a touchscreen. This version works well but we hope to 3D print it with these earnings.
+Help save our team's dearest, most faithful friend, Cletus. We want to show him to the world.
+Switch Bot mechanically controls all switches and buttons wherever you are. Enjoy your smart & simple life the most affordable way.
+FTC Team 10690 gives middle & high school students an opportunity to see fun & excitement in complex problem solving.
+We want to upgrade our fighting robot PP3D for the second series of Robot Wars.
+Add character and humour to your robot creations with Raspberry Pi, Arduino, Codebug, Micro:Bit and Crumble
+The world's first $350 robotic arm with computer vision and state of the art AI.  Replicate your motion precisely without coding!
+Koova is the 2017 CES Innovation Award winner. It's the smallest camera robot that can auto-track, face-recognize, and check your email
+AR3 is the first outdoor robotic camera. It talks, detects human faces, and 360-degree auto-tracks people to safeguard your properties.
+Affordable mechanical Gimbal for hobbyists, robotics, fun and learning.
+Compact and powerful open source robot controllers that fit perfectly on your Raspberry Pi Zero. Take control of 6 motors and more...
+Rokit Smart is a user-friendly robotics kit that teaches building and programming (using Arduino) of robots without soldering
+You are funding the development of a robot build by high school students for the 2012 FIRST Robotics Lonestar Regional in Houston, TX
+In light of the new 2017 FRC Competition "STEAMWORKS", we would like to build a practice field for ourselves and other nearby teams.
+GamePRo is a device that can robotically control a gaming console to automatically perform programmed tasks.
+Oculus is a motorized frame and software kit that instantly converts a small laptop into a web controlled ROBOT
+Funding to help bring our team to the 2015-2016 FIRST Robotics competition to increase the team's experience and spread engineering joy
+Easy to use Arduino Shield  for smart Robotics projects with Lego EV3 /NXT sensors and motors. Use this shield in Arduino IDE with C++.
+Support our kids, today's students are our future.
+Ohbot2 is an affordable robot and graphical software that works with your PC.  It comes with an Arduino-compatible servo controller
+Introducing kids to robotics has never being so easy and affordable!
+You are funding the development of a robot built by high school students for the 2013 FIRST Robotics Lonestar Regional in Houston, TX
+Build your own four legged friend with this easy robot kit!  What will you teach your mePed to do?
+Anyone can build a robot quickly with this kit. We take care of all the wiring so that you can focus on making it uniquely yours.
+A powerful robotics controller for everyone -- No computer required!
+You will be helping to fund us so we can build a FIRST Tech Challenge robot for competition.
+To compete we must design and construct a robot, a device capable of launching projectiles, two rockets, a bridge, and glider.
+Help UE High School's TigerTronics build the champion robot for the Richmond, VA and Rochester, NY regional competitions.
+Phenox is an intelligent, interactive and programmable drone. Not just a flying robot, but a platform for "Flying Apps" for everyone.
+This is a bio-mechanical robot that grows marine biomass internally and converts it into biofuel
+The Bay Shore Robotics Team provides students the opportunity to learn about mechanical, electrical and computer engineering.
+Help support robotics students trying to share their love of robots with students and friends around the world.
+A feature length documentary following the Morris Academy Robotics Team , 2Train Robotics.
+FIRST Robotics Team 271 is Bay Shore High School's robotics team:  inspiring students in the fields of engineering and technology.
+We are young, aspiring engineers participating in First Tech Challenge, a robotics competition, and would love to have your support!
+Chinese Christian High School of Alameda, CA needs your help building a robot for the FIRST Robotics 2013 Tournament!
+You are funding the development of a robot built by high school students to compete in the national 2013 FIRST Robotics Competition
+“A Dollar for Tyche” Kickstarter Campaign for the Children of the Future. AI - Artificial Intelligence
+Help us fund our 2015 team expenses
+We need your help to send 20 students to fulfill their lifelong dream of competing in FIRST Robotics and representing Chile!
+You are funding the construction of a robot built by our High School students, FIRST Team 4083 "The Iron Wolverines".
+Isaac is 13, and has always demonstrated creativity with what he has. He's keenly interested in moving to quadcopters + Raspberry PI
+RK-1 is a wifi enabled mobile robot that you control using your iOS or Android tablet or phone that makes your Arduino projects mobile.
+A small, portable, affordable and independent telepresence robot that provides users with the flexibility to be in two places at once
+After winning five gold medals at RoboGames, I have transformed my designs into a modular battle robot kit so you can make your own!
+Affordable Robot kits and cases for the Raspberry Pi that are strong and lightweight for schools and hobbyists of all ages.
+My robotics team won the Rookie All Star Award in a regional competition. We need money to go to St Louis for world competitions.
+Koova, the smallest robotic camera with auto tracking abilities, designed to keep  you safe.
+The Gaffney High School Robotics Club is fielding two teams to build robots to compete in the First Technology Robotics Challenge.
+Help fund a new drive system for our robot that will compete at two 2015 FIRST Robotics Regional competitions.
+We're a competitive high school robotics team, and we need funds to attend the World Championship in St. Louis.
+Team 6040 has 4 weeks left to build a remotely operated vehicle for the FIRST Robotics National Competition and we need your help!
+Partner with Big MO 314 to build & compete a world champion robot for 2014 FIRST Robotics Season as we set our sights on St. Louis, MO!
+Robots, people, cocktails -  is there anything else that goes together so perfectly? 
+The Zombiebot Nano is a low-cost programmable robot that anyone can build. Colour-coded, snap-together parts make assembly child's play
+Emphasize and bring Science, Technology, and Engineering, to a group of High School students and their community through robot building
+Help 8 children from the Netherlands make their dream come true: participating at the open Canadian Championships in Toronto.
+Arduino-compatible board that includes a prototyping area and rechargeable battery power management circuit (and a battery holder)
+Our team is partaking in the annual BEST competition and we can use your help to raise money for supplies, we appreciate your support.
+A community designed robot that gives everyone everywhere access to Artificial Intelligence via a fun little guy named BiBli.
+PicassoBot is a robotic arm kit that can draw pictures and sketches. It is open source, compatible with Arduino, and USB powered.
+Makeblock is an aluminum extrusion based construct platform that can be used to build robots, machines, toys or even art-ware.
+Seeking to represent Hawaii at FIRST Robotics World Championships. After winning the Regional Tournament.
+"Scout" is a robotic boat designed to cross the Atlantic Ocean and reach Spain- a small boat on a big journey.
+Romotive is back with a brand new bot! Romo is an affordable, personal robot that uses your iDevice as his brain.
+Bring a day of art and excitement to elementary students by having middle school students help them build autonomous painter bots.
+Bilibot is an open source, affordable robotics platform with all the hardware and software included to run real tasks out of the box.
+We are high school students in La Crescenta, CA who sacrifice our free time in the name of building awesome robots.
+Please help support our FTC robotics 2016/17 season
+FTC Team 7042 needs funding to finish competition robot so they can compete in this season's challenge called Cascade Effect.
+Pace is a new alternative high school, students are interested in starting a Robotics Team, will allow a hands on STEM class also
+Expand WinnAcademy to teach SIX more kids about math & science when they build, program and play with robots.  Is it Fun?  You betcha!
+High School students build fully functional robots in 6 weeks to compete and spark interest for science and engineering.
+Botiful is an Android powered robot revolutionizing the way you communicate with distant people.
+Winner of the 2015 CES Best of Innovation for its amazing ability to search for and track any movement even in darkness
+We're revolutionizing pool ownership, keeping your pool clean with solar power - saving time, energy, money & the Earth.
+Teaching elementary, middle, and high school students college-level robotics with robotic teddy bears!
+With BombiniBot, your challenge of teaching robotics and  programming to young kids is much simpler.
+The competitive Underwater Robotics team from the University of Washington needs help completing their vehicle, Orcus
+Minority youth code robots to engineer their future. Fund our new Lego Mindstorm robot kits!
+Squad Corellia is starting a droid project for our friend and member BH 42297, Amy E Higgs. Amy is currently fighting cancer.
+This robotic cooker streamlines the entire cooking process, and can adapt its cooking style to your personal preferences.
+The Mobile Tackling Target is designed to accurately mimic player motion thereby improving tackling performance and reducing injury.
+We are the Titanium Titans, FIRST Robotics team 4467, and we are raising money for our 2016 robot build and competition!
+We are a team of ambitious high school students working to develop marketable skills while designing and building a robot.
+We are a FIRST Robotics team located in Knoxville, TN dedicated to helping and inspiring STEM among our community.
+The Gears Not Steers 4H group in Oregon wants to build an android inspired by R2D2 (from Star Wars).
+We are in a robotics competition where we have to build a robot, write a notebook, build a display, and make a presentation.
+Star Wars General Grievous' Light up Lightsabers for Lego. USB powered, you can connect it to your computer.
+Please help us travel to California to compete in the FLL North American Championship and to get the word out about adynamicbrain.com
+2016 CES Innovation Award Winner: World's first cordless robot that can talk, hear, detect faces, and track intruders 360°
+Please help us travel to Australia to compete in the FLL Pacific Asia Championship & to get the word out about newtonbusters.weebly.com
+We are FRC Team 3807, a robotics team from Overland High School. This year we are attempting to fund an entire practice robot.
+ATOM recognizes your faces and knows who you are. It talks to people, auto-tracks intruders & even checks your email arrival!
+Together we can move the world to protect robots from bullying
+CLASS - Crowdsourced Learning Academic Scholastic System with additional Spin wheel and periodic table of learning methods.
+Our First Tech Challenge team (#6123) has qualified to compete in the Super Regional competition in San Antonio. Help send us!
+Scrobby Solar is all you need to keep your solar panels clean. This little robot is easy to install and completely independent.
+A rugged and simple gearbox with 2 useful ratios and slots for easy mounting. Powered by 1 or 2 common FIRST robotics 500 series motors
+Empower the next generation of Dronesmiths™
+The SkyHook Mini is a camera positioning robot that allows the filmmaker complete aerial control for lighter high definition cameras.
+Proof-of-principle 1-arm working model for the car juggling robot.  This one will juggle 250lb objects. An awesome robot on its own!
+A remote controlled, engine powered, mobile robot with a camera to clean snow so you can stay inside and warm.
+Meet OutRunner, the world's first remotely controlled robot running  up to 20 mph on various terrain with up to 2 hours of battery life
+Simulate a satellite on your desktop, work on a design that might fly, and interact and control real satellite subsystems!
+SumoBoy is the world's first mini sumo robotics kit that consists of two parts: a programmable fight robot & the prototyping board set.
+LAB is a drone, whose brain is a smart phone. You can program its brain and look on the phone!
+New live show from a humanist collective of artists and engineers exploring comedy where humans and robots intersect and interact.
+Ruku: a Rubik's cube solving robot for STEM education.  Teaching students Computer Science, Robotics, & Engineering in an engaging way.
+Arduino powered self-controlled robot which is able to find objects, grab and relocate them and do many other funny an useful things!
+Re-invented robotic mobility to conquer stairs, bumps and more! The ground robotic revolution is here! Get a platform while they last!
+The FDL-1 is a robotic foam dart launcher. It's 3D printed and can be controlled over the web. It even comes in blaster or turret form.
+A desktop robot arm as capable as a human, only better.
+It shares the same DNA as an industrial robot.
+Launched at CES 2017 Las Vegas
+With GroBotz building and controlling your own robots is easy.  Play, make and learn with GroBotz blocks and App.
+The best robotic hand to learn robotics from the basics, an opening door to a world of new technological possibilities.
+Get your own arduino robotic arm right there on your desktop! Maximo Arduino-driven, 5-axis Robot Arm.
+Learn to code like a spy with robots! Capture-the-flag engineering adventure teaches coding skills using robots and the Raspberry Pi.
+Scratch Duino is a highly customizable, simple and interactive open source robot kit with magnetic-mount sensors.
+The new generation of programmers that uses WiFi instead of cables.
+Program, control and monitor Robots, AVR and Arduino over WiFi.
+mimic immerses the user in it's world.  Through revolutionary controls and immersion goggles you become an adorable 12 inch tall robot.
+Help give the ASME Student Design Competition winners a chance to compete internationally in Montreal with their quad-copter drone.
+I have developed a high processing AI that can detect diseases and illnesses, also teaching education and acting as a shop assistant
+This circuit board is an Arduino shield that lets you turn your radio-controlled car into a robot.
+Despite using old technology and no sponsor support, we beat 24 better-equipped teams to advance to the state finals. Please help us!
+Help STOP Climate Change! www.nearthco.com can build devices to help stop illegal logging (& poaching).
+Arduino powered self-controlled robot which is able to find objects, grab and relocate them and do many other funny an useful things!
+Designing working robotic models of the next generation of integrated prosthetics.
+SuperDroid Robots' remote control SnowPlow and SnowBlower allow you to remotely remove snow while you stay warm in your home.
+Upto 40min of flight upto 40 mph automatic takeoff, landing, and follow me mode for 3rd person filming fully autonomous or fly yourself
+The current prototype uses Sonar, and Infrared to sense the environment, a camera w/ night vision, and wifi for networking and access.
+A remote control ground vehicle capable of carrying varied payloads, FPV, Cameras and other devices.
+Team 4466 needs funding to purchase spare parts & pay for competition expenses so they can compete in this season's challenge.
+LVR has developed a low cost robotic quality control system for the orthopedic implant marketplace and manufacturers of small parts.
+Please help us start 3 FIRST Lego League (FLL) teams in Bakersfield that will compete in the Central Valley Robotics tournaments.
+A 3D printed, Arduino-based robot arm that can easily be trained to do the repetitive jobs in your life.
+An Inexpensive, beginner's platform to the world of robot vision.
+An easy to use camera that provides vision for your LEGO® robots by distinguishing objects based on their color, size and shape.
+Beehive Security systems will be a semi-autonomous surveillance and security platform, able to scan and identify objects in real time.
+Growver saves water by precisely and intelligently irrigating as it navigates your lawn.
+I immerse my students in as much technology as possible including Google Classroom, EV3 robotics, coding, and Z Space.We need a robot!
+E-Bot is an awesome open-source Arduino wireless robot for anyone
+Just use an Android or iOS device and let PiPanther Robot explore your room or office. Hunting for enemies has never been so much fun!
+Robots have dirty minds...
+We're a team of high school students in Ellensburg WA who combine science and technology to compete in FIRST's FRC robotics competition
+Set yourself free, be wherever you want to.
+Develop a prototype of my human hand sensor to demonstrate its ability to activate mechanical hands to copy its actions.
+Use your mobile device to program and control self-built robots. Hedgehog is for everyone: simple for beginners and powerful for pros!
+The motherboard for Arduino Mega, designed specifically for robots! Forget those messy projects with hundreds of cables
+We're a group of passionate, innovative high school students that are building a robot. Help us on our journey!
+Build your own smart Robot; Program your robot using its specific graphical software; Start playing and competing with others.
+Drive your video chat in a whole new direction with professional grade telepresence. Interact from across town or around the world!
+The first 1/12 Scale R/C car with an underbody aerodynamic package.
+Personal Robot Companion
+G-Away is a handy, quick, easy and natural solution to clean narrow mouth water bottles/milk bottles or any containers.
+An engaging kit that demystifies robotics by illustrating basic robotic principles of mechanics, electrics, and computation.
+This chair will take people with or without legs and make them  stand / walk again.
+Home Bot is a simple but useful robot to retrieve objects around the house or skype and check in with the family controlled via iphone
+Imagine sitting in the comfort of your house, looking at your tablet or computer and mowing your lawn or snow blowing your driveway.
+Thunder One-One is a remotely controlled tank equipped with an Arduino board. I would like to create an instructable for this project.
+A State-of-the-Art Battery Management Solution for the AIBO
+We are a Minnesota based robotics team planning on competing in the 2015 FTC state competition.  Help us raise funds!
+ZIRKOOS encourages teachers and parents to teach programming and robotics to girls and boys from their earliest stages of education.
+This free tech program will teach young coders & builders skills to create robotics that work for social change initiatives.
+Birth of a free thinking, truly random artificial intelligence. Closely designed for the human experience.
+My son loves robots: It is our dream to build one together. Join us in this great educational adventure!
+Protect your Raspberry Pi 2 in the wild and unleash its true potential with amazing robot upgrades! Built by hobbyists - for hobbyists!
+The smartest and unique way of moving your stuffs.
+The ProtoVoltaics Pick and Place machine is used to accurately place surface-mount devices (SMDs) onto a printed circuit board (PCB).
+Openbook offers several Book Vending Machines where users can leave their used books and in exchange collect another one.
+OpenRobotix Labs plans to build the first UAV (drone) capable of sustained flight at low light and atmospheric density levels.
+Help support UNLV's robot Hubo at the DARPA Robotics Challenge finals. This is a BIG deal for UNLV and Las Vegas!!
+I will make a step by step video about how to create your own, fully internet controlled, from a webpage, Skype assisted drone.
+Archie is a simple and affordable way for everyone to seek out radiation. It's built with off-the-shelf parts, and costs under £250*.
+Share and control robots and devices designed by makers/inventors on a free/open Internet of Things platform. No special hardware req'd
+Carrying heavy loads is so 19th century, and pushing them 20th. In the 21st century we have LoadAUF to carry cumbersome loads for us!
+My team did the work and we qualified for World Championship competition!  Please donate for travel and hotel costs in Louisville, KY.
+Tracer Robot controlled by its specific graphical programming software. This is a new high-tech educational toy for children/students.
+Use of aerial drones to automate repetitive tasks
+Sick of clicking switches to fly your SeaPerch? You need the Perchino™: a comfortable, agile, hack-able, even un-tethered  Controller.
+Remote snow cleaning robot: hybrid power, ice cutting blades, 4x4 drive, 5.5 HP, built to blow.
+This shield powers your Photon or Core from a battery pack and will control up to 4 motors (2 bi-directionally).
+The Middle School Robotics Club at Imagine East Mesa would like VEX Robotics parts to learn how to build robots!
+Machines that can perform surgery's also dispense medication in a pharmacy cutting the cost of the medical industry in half.
+CirkitBorg is a Robot Micro Skateboard.
+Dos equipos españoles pertenecientes a la AMUVa van a asistir al All Japan Robot-Sumo Tournament con sus robots y necesitan tu ayuda.
+The OS360 robot cleans all 4 aquarium walls while avoiding obstacles and maneuvering around corners.  The first of its kind!
+Help us create a totally safe, arguably sentient computer network that controls all the world's bombs!
+Aim of this invention is to mechanically reproduce the jaw movements on a maximum range of precision. Thanks to a mechanical structure
+think tank with the mission to provide creative strategies for the working class in response to technology & globalization
+Start building awesome self reversing robots that will learn how to move around there environment. All with no programming!
+The AeroFalcon Vulcan is a drone which combines both intuitive design and functionality to the common developer.
+Baue deinen eigenen Arduino Roboter!
+Open-Source-Bausatz, mit deutscher Anleitung.
+Lerne zu Basteln, zu Löten und zu Programmieren.
+Facility where students of all ages learn to use 3D modeling and animation software, and build and program autonomous robotics.
+Help form two or more FIRST Tech Challenge teams in South Carolina to grow our numbers and spread the word about FTC and STEM outreach!
+Control your light switch with a TV remote, xbox one, your hand or cell phone!
+Never have to get up to turn off the lights again!
+ThynkBot is a mind-controlled robot software that uses with the power of your brainwaves to move around. You think to control it.
+We are a high school robotics team trying to raise money to travel to, and compete in competitions.
+I want this city to advance the future in an old world city. and to breathe new life into it.
+One of the more advanced AI that is readily available Free.
+With an expansion Android app
+Construct a working animatronic from the hit video game Five Nights at Freddy's for one lucky fan while raising money for charity.
+Exclusive Automatic Sterile Medical Machine.
+This Machine will help the doctors to save time, and by that they will save lives!
+Healthy Tiger Population means Healthy Ecosystem. When animals at top of food-chain decline,It indicates entire ecosystem is in trouble
+Our program has been very successful in introducing our youth to robotics, we feel it is time to expand to drones as well.
+Our goal is to create something similar to the Japanese "Kuratas" Except much more affordable. Arm attachments will be detachable.
+Robotic Pipe Repair technology for our nations crumbling infrastructure eliminating manned entry!
+We have competed in Vex's Sandy High School Robotics for four years. Two time State Champions and two trips to worlds. Help us achieve.
+Taking advantage of my free time this summer, I decided to create a robotic arm.
+RoboJoe is designed to produce a bitter-free coffee experience, using automation to condense a full shop into a minimal footprint.
+The first multifunctional agriculture robot that can be created with home tools, a couple of microcontrollers and your own smartphone!
+driverless e-bike taxis will revolutionize urban traffic - they will be sustainable, eco-friendly, cutting edge and FUN!
+How would you like a first person view into our amazing underwater world or the aquarium in your own living room? Now its possible.
+The McDowell Robotics Team is looking for sponsors to help build a robot to compete in the FIRST Robotics Competition.
+The Ladybug is a small robot that looks like a toy but was designed to interact with children with autism spectrum disorders.
+MYTHOS Börsenhandel-Roboter; Mythen erheben einen Anspruch auf Geltung für die von ihnen behauptete Wahrheit. Stockmarket trading robot
+Our goal is to produce safe, low cost produce worldwide.
+An affordable humanoid A.I. Robot with all moving joints,begins with learning and performing day to day tasks around the home/office.
+Automate Airlines baggage/parcel handling system
+Building a drone that cleans stalls, paddocks, yards, etc. This will be a proof of concept to prove that this is a feasible product.
+A proposal for high precision digital perception and navigation software used in mini UAV for civil engineering and entertainment.
+Attainment of a pilotable mecha, what's not to love?
+Bait & Take is a self-propelling fish bait unlike anything else on the market.
+RoBattleBots, by FIT
+ Where imagination becomes reality. Bringing the future to you now.
+While launching our era of cute humanoide robots our aim is to cheer up people with our robots, bring people together and share fun!
+Activated by airbag deploy CSD flies from an on vehicle enclosure to capture the scene, alert traffic and signal emergency services.
+The Alive Lure is the first electronic fishing lure with actual vibrating, buzzing wings!  Intermittent buzzing simulates real insects!
+Build an open-source application to enable remote control over some off the shelf rolling drones over the internet.
+Luna is the first human size personal robot designed for everyday practical use. App store, lots of features, and a great personality.
+What better way to get elementary/ Jr High school kids  interested in technology than with robots and Legos???
+CNC for the average joe to start a business.
+Play pretend even while you are not actively playing. Toy will be great for children and nostalgic adults. Patent pending.
+We are a college student group building a design project and need your help!
+Core foundation realised the Comm-Server; the higher performance server for organisation's IT resource for portable device deployment.
+We build robots to compete in the First Robotics Competition. Our team teach kids about engineering and science outside of class.
+We are creating the first ever Alpha Bot prototype, a robot mecha 15-16ft tall controlled by the movement of your own body inside!
+Project Wheelie aims to build Sensory Robotics' technology demonstrator robot with AI using our own new computing language Wave.
+Development of an autonomous humanoid robot for patrolling and detecting border and zone intrusions.
+The future soldier (military) & The future helper (healthcare)!
+A double hourglass motor self-propelled and fully submerged into water with a constant weight distribution passing the 180° marking.
+We are determined to go to the New England Championships, but our fundraising total has left us short.  Help 5112 get there this year!
+MyStar is a small, hovering light that is designed to follow its user and illuminate their immediate area.
+The Auto-Can allows the owner to pilot a can to and from the curb with their phone saving them from a smelly and dangerous experience.
+Soldering free.  Embedded programming free.  Just bring your Java skills and start controlling linear actuators in a matter of minutes!
+Sphero is Awesome Tech, Rolling it around the house is Boring.  Project is Bar-Quality battleground Winner take all playing fields.
+The CleanCopter is a combination of an autonomous heavy lift multicopter and a highly effective cleaning gadget.
+Mechanically produce ozone in the lower stratosphere over the hole in the antarctic, using a network of charged screens and balloons.
+Hello World, we are an engineering group that wants to create a scale model power armor for a  Skills USA Competition for Technology.
+We believe educational robots should cost £45. Help fund creation low-cost and high-capability QiBots arduino DIY robot prototype
+Our robotics team needs money to expand our team, take part in more competitions and fund our road to the world championships!
+Autonomous solar powered survey vessel used for surveying, law enforcement, environmental restoration and private consumer.
+7th Leadership Organization a organization thats founded on designs and architecture. Are goal is to build the Gundam in this project.
+Wanting to create a ship that can help us to better understand the sea, we have mastered the skies let's master the underwater kingdom.
+We are 3 middle school students who are raising money to buy components for our VEX EDR robot.
+Libraries and archives will be managed by a robot for a safer, faster, cheaper deposit and withdrawal of volumes. Patented.
+Team 1370 Thermogenesis is working to further STEM education in our community, providing kids with hands on experience in the field.
+AN EYE IN THE SKY ...
+It is time to put drones into safety and guarding business, GuardDrone will be your patrolling eye from above.
+A learning and decision making computer, capable of automating any scenario. www.projectrobro.com
+An autonomous astromech similiar to the R2D2 unit known from the Star Wars movies- having motion sensors, voice recognition and more!
+Battleye models has been created to create a real life battle system of model tanks in 1/35 scale
+AUTONOMOUS BUOY hardware platform prototype for monitoring of environmental conditions in oceans, based on patented technology.
+Dexmo: an affordable mechanical exoskeleton system with force feedback for you to touch the digital world and captures your hand motion
+FlexPV is an open source electric vehicle development kit with a collaborative community.
+Your own swarmbots! Fun little robots that move with music and teach you creative engineering. A robot kit + online community & class.
+MOTI gives you tangible reminders and instant gratification to build a better you. Backed by science, built with design.
+DOTY is a project to build a COLORFUL ROBOT that teaches K-12 kids-to-adults about the integration between science and art.
+Jackie is a flying smartcamera to view anything in your home from your phone. What does Jackie see? Open your phone and find out!
+Oomiyu is a maker kit that combines the art of paper craft with powerful & hackable electronics to create a customizable animal robot.
+The Most Advanced Modular Robot in Your Hand: COMBINE, PLAY, PROGRAM and make it do fun robot things
+Design, build and code your own custom robots. Children of all ages can bring their robotic ideas to life!
+Muribot is a STEM focused, ARM/Raspberry Pi/Arduino compatible robot that packs university quality features into a affordable platform
+Project MOVED.  Please SEARCH: DOTY the Amazing STEAM Education Robot
+Floating Pool Cover that is activated by Phone and assembled by Drone.
+A new robot and apps designed to inherit all of the on-board smart technology of smartphones physically linked to it's own capabilities
+Open source hardware DC Motor Controller kit for brushed/brushless motors. High current, high efficiency, Arduino & RaspPi compatible.
+Fun and challenges in an educational technology game. Robotics have never been easier.
+Join us to build HugeBot Iron City. HugeBot is a 7 feet tall humanoid robot. You can control HugeBot in Iron City and play robotic game
+This Robot Arm is a great way to discover robotics. Accessible, fun and affordable, It's designed for everyone.
+I am developing a Robot & Software. "Alpha" interacts with family while learning & retaining personal experience like Apple Inc's SIRI.
+FireClouds is a multicopters family designed for photographers and makers, with high performance and really adaptable
+I wish to pursue a career in the robotics field. My main goal now; create a few robotics projects to submit to colleges I'm applying to
+A toy that teaches kids electronics and programming!
+Airplane Sanitizing Robot uses UVC light to disinfect all surfaces of the plane's interior, including lavatories, before you board.
+I am starting a business for underwater inspections using Remote Operated Robots for inspections, general surveys & monitor marine life
+Research and development of an affordable robot for the public. Be part of something that will push humankind into the future.
+ThynkBot is a mind-controlled robot that uses with the power of your brainwaves.
+RaaX Robotics introduces a new modular, plug and play robotic arm. This arm is no toy, aluminum construction, Arduino and Pi compatible
+Bitzong's rClock is the world's first robot alarm clock that can effectively wake the user without disturbing others around them.
+Play and Learn with intelligent robots of new generation built with LEGO. Create your own robot or robotic app.
+An intelligent, heavy terrain construction robot.
+A PC computer application for displaying robot data in a customizable graphical interface.
+Barbot! es un Bar Robotico este equipo cuenta con 11 Botellas las cuales pueden ser variadas para preparar diferentes cócteles.
+Your Drone Sci-Fi Dreams are Now Real,
+with the RAVN
+a beautiful gravity defying art that is transformable into the best control learning device in the market today.
+Pram is an ideal platform for a robot, all your need is the powerful drive- EPRAM
+Apeiros is a user friendly, professionally designed open source mobile robot that can be used as a tool for teaching STEM.
+Hello. I am 25 years old guy passionated in robots which need your help with a big challenge called Nao.
+Building a 1 Pound combat robot for upcoming 2016 Robogames competition.
+We are excited to announce the first year of university-level competitive pod racing and aerial robotics in Maryland, USA (June, 2015)!
+The Technology & Learning Center will establish an outreach program to bring coding and other technology skills to autistic children.
+The worlds Fastest, Most Manoeuvrable, Tech Advanced Drone in the world. Over 200 mph, Open Source Interface See the website for Specs.
+If quadcopters haven’t yet caught your interest then maybe the B-Unstoppable hybrid drone will be the first.
+Wearable + Community response + Medical drone + Smartphone app + 911 = a life saving platform that will change emergency med forever
+My son's robotics club won the state competition now the club is going to regional's and we are trying to raise money for him to go.
+Team 6040 has 4 weeks left to build a remotely operated vehicle for the FIRST Robotics National Competition and we need your help!
+Kai [Hikari] is a chat/group bot
+She'll write you with a weather prevision or more stuff
+The more she grow the more she is usefull
+Calling the greater Philadelphia region. I am looking for help rebuilding the Hitchbot that was sadly destroyed.
+Your Child's Learning Companion and Personal Conversation Buddy
+This automated 4wd robot (pic curtesy of bizchip.com). Will allow users to send packages and such around a city safely and securely.
+HYDRA is the first hybrid gas/electric multi-rotor drone, providing over an hour of flight time and 7+ lbs of payload capacity.
+The 21st century is here.  And with it comes an aging population.  Our parents and grand parents are alone. No longer
+We are planning on building a fully autonomous car (Self driving car) to educate younger students to the STEM program.
+Home Security is overdue for a game changer. 
+Meet Cyp: the first intelligent home security and music system!
+filter in real time the light spectrum and produce only the colors you need
+Bob-E, a friendly VR robot, that allows you to look around, move around and enjoy being there
+Zubot Tranformer is the world No.1 100% hand-made robot based on the metal hardware in our daily life.
+Help me build the ultimate Roomba and bring meaning to one small robots life.
+Make learning fun and teaching easy.
+Tired of your co-workers harassing you @ the office...we have a solution for you. A modern solution! Cute. But. Deadly :)
+Help me build a 6wd airsoft robot with a turret! I have the turret done, with automatic and manual contols. The project is open source.
+We're curing hair loss! Same exact function as Rogaine but FREE*You Can Fund world peace, prevent related cancer, cure it, & keep hair!
+The Reach Pocket Drone is the personal flying robot that enables anyone to capture video and still shots from a wide range distance
+We are trying to get our last few elements from china for our talking robot.  
+this robot will be listening to what your saying.

@@ -1,0 +1,771 @@
+USB Powered WiFi IoT development board with 6 DOF IMU and precision temperature sensor. Dressed up with optional plastic case.
+Finally, the missing pieces to the Raspberry Pi: Pi2Grover Interface, a Grove Analog To Digital Converter and a Digital Grove Expander
+Arduino/Raspberry PI/BeagleBone - I/O Expander card with large hard prototyping area
+Flutter is an open source ARM-powered wireless Arduino with 1000m+ (3200 ft) range and 256-bit AES hardware encryption.
+Solar Pi Platter - A versatile board for powering your Pi from the sun or battery and much more.  Come see what we've cooked up!
+Let’s start the new era of “Things onto the Internet”. With a few lines of code and almost no wiring, objects will become smart!
+I2C Hub/Repeater for the Raspberry Pi (RPI-I2C-HUB)
+We're building a motion platform for virtual reality and Oculus Rift! Resulting codes, designs, and models will be made public for all!
+Have you ever wanted to include a fingerprint scanner into your projects?  Now you can!  There are two boards to choose from!!!
+Like the small size of the Raspberry Pi zero but would really like to use composite / analogue audio or VGA?
+An easy way to be able to add a Raspberry Pi GPIO Header to your desktop computer or laptop.
+Imagine 5 networks in one perfectly-formed, same-small-foot-print-as-WiPy- LoPy-and SiPy, IoT development board. MicroPython enabled.
+UP² (UP Squared) the most powerful maker board ever! Now it is also available as a fanless PC, powered by Intel Apollo Lake CPU
+Collapsible, portable, light-weight wind turbines that go where you go.  Great for hiking, camping and more!
+The Tsunami is a powerful and flexible signal generator, analyzer, and experimenter's kit built on the Arduino platform.
+Project Exodus - The 2400 Watt DC Resonant Charging Tesla Coil
+UP, the credit card computer board for makers powered by Intel Quad Core Atom X5-8300 1.84GHz, running Linux, Windows 10, and Android
+A low-cost, easy to program color LCD touch screen computer with WiFi connectivity to the Internet.
+A development platform with built-in Wi-Fi, web IDE, cloud access, Arduino shield, and more that makes creating IoT devices simple.
+The ultimate 100% Arduino Due compatible dev board with Wifi and Mesh networking, Audio, USB OTG, microSD, and 99 i/o pins!
+A 6-wide superscalar cpu with working simulation of integer and branch instructions. Source from before switch to 9-wide.
+Inexpensive wireless donation jar adds NFC capability to store checkout counters, fundraisers, snack rooms, lobbies, and more.
+"Where's my car?" is an Italian Arduino based project which allows everyone to take track of something moving on Earth, like a car.
+A ground level enclosed loop electric windmill system that recycles the energy for continuous electricity generation for home uses!
+Get help on all your vehicle upgrade needs. You don't have to waste your time and money on a shop, when you can do it yourself!
+Generating power for offgrid home appliance's, and can be used when camping
+Building my first custom PC. Just a girl trying to achieve her dreams with a college student budget.
+110 watt affordable cob grow/aquarium light. Custom spectrum by choice of white temperature. 120 degree lenses. ~42% efficient.
+A non-toxic 5v DC solar array with inbuilt storage for an on-demand lighting and USB charging.
+Is it a function generator? An audio play back generator? a bode plotter? a frequency sweeper? yes, oh yes, YES! It can be everything!
+Building a custom pirate themed subwoofer set up for my Show Car, The Black Pearl. The finished project will be shared at shows.
+Green Energy self sustaining generator that is fully functional.
+My father served in Iraq and Afghanistan I would like to repay him for his service to this country
+Power your projects easily with any type of Wall charger,Test your chargers/Cables, without damaging them! End the frustration
+Breadboard-compatible Arduino Clone ATMEGA328P
+Start learning electronics right in front of your laptop with our simple and easy website + Pirates Electronics Kit.
+Perf+ is a revolutionary prototyping board designed for ease of use and flexibility.
+Do you like synthesizers?
+Do you like small?
+Do you like DIY and Open-Source?
+
+Then this is for you!
+LoPy is a MicroPython triple-network dev platform which doubles up as a LoRa Nano gateway. Arduino IDE compatible as stretch goal.
+Buzz is an easy and fun educational kit that builds STEAM / STEM skills and grows from a project to a friend you can program.
+A super cool, super small, Lego like building block system for building really awesome connected devices.
+O Watch is a perfect smartwatch kit for kids to learn programming, 3D printing and crafts.
+Control almost anything with your smartphone! The Switcheroo makes it a snap to upgrade everyday devices for smartphone control.
+Control of up to 680 pixels on any of the popular LED strips from any device with a USB port! One controller to rule them all!
+The world’s first eraser for conductive ink drawings. Now anyone can make their own circuits on paper quickly and easily.
+The iBoardbot is an internet controlled robot capable of writing+drawing (and wiping!) on a glass surface.
+The Pixel combines a 32-bit 48MHz ARM Cortex M0+ microcontroller w/ a color OLED display and MicroSD!
+This scope clock uses a purely analog signal to create the characters. Designed for large CRTs, it will drive more CRTs than the first.
+Hat that allows 3.3V and 5V devices to be easily connected to the Raspberry Pi Model B+ and from there onto the Internet of Things
+blink blink kits provide circuit materials to make fun DIY, art & fashion projects with technology. Designed with girls, for girls!
+NanoBeam is an incredibly small, 5mm t-slot construction system used for building things like mini robots or electronic devices.
+Simple and accurate target tracking hardware for Drones & DIY Robotics. Works in bright sunlight and even complete darkness.
+MetaWear is a highly integrated Bluetooth Sensor module that can power solutions the size of a button and runs on a Coin cell battery.
+Coin-sized, powerful, affordable, open source wireless computer running Linux — created for professionals and enthusiasts
+Supercharge your Raspberry Pi with our sensor-packed shield. Harness the physical world in your projects and applications!
+SilentSwitcher will power your mixed analog/digital project with no audible noise, no mains hum, no RFI and minimal heat!
+Blaze is a miniature, high-res 1.6" 240x240 display with capacitive touch, a powerful 120MHz Cortex M4 micro with GPIO and storage.
+We build a lot of cool projects and use many breakout boards for prototyping.  This project is to bring 3 of the most useful to market.
+This unit can program 6x RFID cards in less than 30 seconds!  Easily connect to to Arduino!  Sample code available. PRODUCTION READY!!!
+OurWeather is a connected open source weather kit that makes learning fun while curating curiosity and confidence in STEM principles.
+Featuring a 32-bit 48MHz ARM Cortex M0+ w/ 16K of ram the Tau packs a ton of power in a tiny package!
+Durio Sound adds a 24-bit 192kHz ultimate sound quality with the lowest possible distortion to your Raspberry Pi.
+ProtoPalette is is a unique teaching and learning tool that helps you build amazing things with Arduino. Maker's Faire Editors Choice!
+The ultimate combination of an Arduino-compatible board and your day-to-day Gadget in one handheld Device.
+Create amazing smartphone user interfaces for your Arduino and Raspberry Pi projects in minutes without having to write an app. Xped.
+PCBGRIP Probe Clamp: Holds your oscilloscope and DMM probes, freeing your hands for other work.
+MODLINK is an Arduino based programmable modular (shield) circuit board for quick prototyping and deployment of electronic controller.
+If you're a DIY nut; a maker fanatic, or a soldering enthusiast, then this 4x4x4 LED cube electronics kit is for you!
+Cordless and melts Lead-Free Solder! Lasts hours and recharges from a USB port! Open Source Hardware, replaceable tips, easy-to-use!
+Smaller/Detachable Controller, Water Resistant, USB Rechargeable | All New 'S' Series Kits
+Pi3Cart is a custom kit that allows you to install a Raspberry Pi 3  into any classic NES cartridge.  Perfect for retro game emulators.
+MangoCube is Arduino compatible, tiny, ATmega32U4 board in colorful case with 3 versions: MangoCube LEO, BLE (Bluetooth 4) and WiFi IoT
+Are you a maker or hobbyist? This DIY electronics kit gives you the instructions and supplies to build a Rubik's cube solver!
+High quality ATX breakout board, use your old PC Power supply as a bench power supply with multiple voltage outputs.
+Arduino compatible! Record & playback up to 8x sound bytes with more than 11 minutes of recording room! Use your PC or your voice!
+OpenScope is a multi-function programmable instrument used for capturing, visualizing, and controlling analog and digital signals.
+Elevate Legos to a whole new level! The Mini Lego Drone kit gives you everything you need to build your own functioning RC Drone.
+A smart electronic parts storage and management device on your desktop - store, search, and use parts digitally
+Simple to use ultimate IO interface for your Arduino, Pi or PC. Self-test and rewire your circuitry or use your own FPGA code.
+Creating a powerful and versatile IoT prototyping board for everyone.
+Created by Fluo Technology Ltd www.fluotechnology.co.uk
+Laserfix is ​​an auxiliary handle, adaptable to all drills and perforators with laser sighting and storage of locations.
+A 16-Ch N/P FET power node/controller, wired, interfaced, programmed, & addressed your way. Bridge the gap of power & microcontrollers.
+User buildable sign board from 1-128 digits in any shape or combination of three colors. Program by USB, RS232/485, 802.11 wireless.
+A Kickstarter Special ESP8266 + FTDI Board that you can keep on your keychain. Only 100 Assembled boards will be made by me.
+Give Raspberry Pi a consumer electronics experience - programmable Pi power switch controlled by a single button or Infrared remote
+Une serrure connectée qui s'installe en moins de 2 minutes qui ouvre en moins de 2 secondes et dont l'autonomie est de 2 ans !
+I am on a mission to design prototype and build the most compact and cost effective motorized drift trike.
+Probe2Bolt Adapters make easy test connections between oscilloscope probes and bolts, screws and DIN rail type cage terminal blocks.
+U1 (Arduino-Compatible) with WiFi plug, Clock , EEPROM, SD, buzzer, NRF24 plug, LCD, RGB led, rotary encoder, buttons... IoT ready.
+I'm going to build an RC park for my community and neighboring cities to enjoy.
+
+I own about 30 acres.
+I want to mass produce Practical, useable in the field , IOT shields for products like Particle , Raspberry Pi ,Arduinos and more.
+Our Complete Generators & Modular Maker Kits are Environmentally Safe Renewable Energy, Providing Stand-Alone Off-Grid Power.
+The micro-sized, Arduino enabled, usb development board - cheap enough to leave in any project!
+VOLTSET connects to smart devices and turns them into SMART MULTIMETERS, allowing you to TINKER, LEARN and COLLABORATE with electronics
+UDOO takes your DIY projects to the next level and it’s a powerful tool for education and creativity.
+An Open-Source Environmental Monitoring Platform consisting of arduino-compatible hardware, data visualization web API, and mobile app.
+A tiny Wi-Fi development board. Arduino + Wi-Fi + ARM Cortex M3  + wireless programming + REST API = awesome.
+A platform that brings together plug & play hardware and drag & drop software to allow everyone to create and invent!
+Circuit Scribe is a rollerball pen that writes with conductive silver ink.  It makes creating circuits as easy as doodling.
+Wireless, Credit-Card sized, Android + Linux + Arduino™, Embedded Sensors, starting from $49. What else?
+Small, stackable, Arduino-compatible electronics for makers, designers, engineers, students and curious tinkerers of all ages.
+TinyScreen is a tiny customizable display.  Play games, get notifications from your phone and display useful information.
+Start making without coding. Beginner or Expert, SAM is the ultimate electronics kit for inventors, artists, and students.
+The world's first 100MS/s open source oscilloscope for iPad, Android and PC.
+A must-have for every Arduino and Raspberry Pi developer!
+The energyShield is a rechargeable battery shield for your Arduino, providing power for your creativity.
+Build your next great idea in minutes, not hours. Hassle-free digital tinkering for everyone with Flotilla for Raspberry Pi!
+Gameduino brings glorious 8-bit arcade action to the Arduino
+Pozyx is an Arduino-compatible platform that provides centimeter accurate positioning and motion information both indoor and outdoor.
+Microduino-Joypad is ... an 8-bit game console + open source + UPin27 + AVR,STM32,MSP430,51 compatible + smart controller == Awesome!
+An Arduino-compatible smart outlet designed to instantly turn your toaster oven into a reflow soldering station.
+The Electron is an Arduino-like cellular development kit with a SIM card and affordable data plan from the creators of the Spark Core.
+Make your own light-up pop-up greeting cards with these educational kits. A fun way to learn simple circuitry and paper engineering!
+Now anyone can transform touch into sound (and so much more!) with the Touch Board, an easy-to-use Arduino-compatible device.
+Build Bluetooth LE devices for the Internet of Things with a REST API and Web IDE that run on coin cell batteries.
+Learn electronics, shoot lightning, and play music using electricity with tinyTesla! Also introducing oneTeslaTS, its big brother.
+The Oscilloscope clock uses a cathode ray tube to display the time.
+Internet usage translated to a real world brass pressure gauge from the early 20th century.
+Tiny programmable development board with Bluetooth, heart rate (PPG), galvanic skin response (GSR), and motion sensors (ACC + GYRO).
+Reactor Core: This is a 3-in1 programmer for Arduino & AVR based microcontrollers. Optional DIY soldering kit, solder stencil, & paste.
+Add machine vision to your projects by scripting Python. Small, affordable, and expandable with shields.
+Ever played Mario on Play-Doh or Piano on Bananas? Alligator clip the Internet to your world and start inventing the future.
+World's smallest Linux server, with Wi-Fi built-in. Building for the Internet of Things doesn't get easier than this!
+Create fun, electronic devices each month with guided tutorials and helpful community; first kit includes parts to build a wifi robot.
+Modkit Micro is the easiest way to program a growing list of open hardware platforms from Arduino to Wiring.
+Unique real-time power logging test equipment
+for USB and PoE powered devices
+It's Like a Shield for your Shields! For novice and advanced users.
+The cheap, tiny, cloud enabled Wi-Fi dev board. Arduino compatible, 32-bit, wireless programming, and a REST API data cloud!
+Kit for making a programmable colorimeter for analytical chemistry and biochemistry labs & activities. Arduino compatible.
+Everything you know and love about your Arduino, but with Wireless.  Small, sexy, and fully compatible with Arduino shields.
+Set up a SmartPlant monitoring system with your Raspberry Pi.   This Kit is designed to teach the technology and requires NO soldering!
+Make programming fun by creating your own games, animations and more with the DigiPixel shield. With free worldwide shipping!
+Simple LED tester and LED polarity checker.With a Built in battery tester, It can be used to check 1206, 0805, 0603 and 5mm LEDs
+Modkit makes programming the physical world a snap!  Inspired by MIT Media Lab's Scratch, Arduino programming is now accessible to Everyone!
+Technologies yesterday available only to research labs and industry turn your iPhone, tablet or PC into an amazing instrument.
+TinyDuino - The Tiny Arduino Compatible Platform - with stackable shield support yet smaller than a quarter!
+Limited first run Arduino shield compatible six-digit clock using rare and eclectic IN-17 Nixie Tubes.
+Motion and Gesture recognition platform w/ Bluetooth + Button + LED + Acc + Gyro + Mag + Light + Pressure + Battery + open Apps.
+Hand-held modern gaming for Arduino
+Add 128 lines of Digital I/O to your Arduino, Raspberry Pi or BeagleBone Black
+The Portable XPlorerBoard lets you plug in 2 Arduino Micros for your projects and eliminates loose parts with its built in components.
+A well-designed plug-and-play heart-rate sensor for Arduino.  Put live heartbeats into your project lickety-split.
+Connect a HP C6602 inkjet cartridge to your Arduino turning it into a 96dpi print platform.
+Brixo building blocks bring your designs to life with electronic sensors, motors and connected apps.
+Revolutionary Arduino alternative with an ARM chip, incredible features, great open source tools, tiny footprint and built-in debugger.
+MODI is a modular device for DIY IoT, and robotic creations. Just Connect and Build with MODI module.
+A beautiful colour video synth, stuffed full of features, CV control, millions of awesome possibilities in a package you can play live.
+Heatit is an open-source electronics platform to precisely output high current. It is designed to be powerful, modular and compact!
+Learn the fundamentals of electronics, programming and robotics with an Arduino microprocessor.  This kit contains everything to build.
+A wireless square with sensors and a simple web app to set rules, Twine tells you what your things are doing by email, text or Twitter.
+The world's first Arduino compatible built-in breadboard with Arduino shields, LEGO® bricks and native USB support.
+Get straight to the action. Connect sensors to your Arduino in literally 2 seconds.
+Awesome Shield teaches hands-on coding, powered by Arduino. For kids aged 10-100.
+A fun DIY project for festive parties and events. Embellish your world.
+Low Power Arduino Compatible computer with Grove connectors to make going Solar easy with your project.   Easy Prototyping for IOT!
+Wearable Muscle Sensor Platform - 4th-gen sensor - Arduino compatible - Control robots, prosthetics, video games, & more!
+This card enables your Raspberry Pi to communicate with widely available 5V sensors and from there onto the Internet of Things
+Add sound to your projects! Make that teddy bear talk. Give your robot a diabolical laugh. Let your art do the talking. (Literally.)
+A powerful little drone synth you can get prebuilt or make yourself. Want a different synth? Just swap the chip for a different program
+A better prototyping board. Breadboard layout with extra footprints for connectors, relay and voltage regulator.
+nScope is a USB-powered oscilloscope, function generator, and power supply that turns any laptop into an electronics workbench.
+A simple, modular solution for building powerful electronic devices.
+Temp, Light, and 10 axis of Motion sensing (gyro+mag+baro) for Sports, Wearables, and Education; this is the most advanced BLE SENSOR.
+Create Music-Responsive LED Art While Learning Computer Programming!
+Domino.IO is an affordable and advanced WiFi hardware platform for Things, and full life-cycle services for Makers!
+Tiny dev board with Linux & WiFi. Create cool things with REST APIs, App Store, in-depth tutorials, and our awesome community!
+ClamClock is a binary clock for makers and technology geeks. Buy it as a kit or buy it fully assembled and ready to go.
+In this class, you will learn how to put together a phone in the shape of a circle, and walk out with a working Cyrcle phone prototype.
+The ProtoCam+: An easy way to build projects and prototypes around your Raspberry Pi Camera Module with your A+ and B+ Raspberry Pi
+The DuinoKit Jr. is a user-friendly system to learn electronics and programming without soldering or requiring prior experience.
+The IoT development platform that runs Python in real time, and features the perfect blend of power, friendliness and flexibility.
+CNC - Eleksmill --- An ideal  low cost mini CNC is designed to more functional performance as well as simple to use.
+Teensy 3.5 & 3.6 - Powerful Microcontrollers For Making Awesome DIY Electronic Projects
+The Autonomo is a matchbox sized, Arduino-compatible, microcontroller board powered by a small solar panel.
+A thumb-sized, Particle-powered, Cloud-connected IoT board with Wi-Fi + BLE that supports Arduino, JavaScript and Python too!
+BreadBro combines the power of an Arduino and the utility of a solderless breadboard into a single small, handheld package.
+The ProtoCam is a prototyping board for the Raspberry Pi, that lets you build projects around your Raspberry Pi Camera Module.
+The first of its kind. Hackable. Peculiar. Elegant. Powered by Arduino. Available as a DIY kit or fully assembled.
+This oscilloscope clock uses a purely analog signal to generate the circles, arcs and lines that create the characters.
+A tiny 32-bit Arduino compatible light, sound, & motion controller you can program yourself!
+Conductak is an electrically conductive sticky tack. Use it to prototype circuits and mount components practically anywhere.
+Bluetooth Low Energy products for makers, professional developers and your next BLE product.
+Easily add up to 8x 5V analog sensors and 4x I2C devices to the Raspberry Pi. Form fitted for the Pi Zero but works with all models
+The LightBlue Bean+ is an Arduino-compatible board that is programmed wirelessly using Bluetooth Low Energy.
+Connect more than one I2C device with the same address to your microcontroller.
+Imagine an Arduino shield that can be configured to be an LCD, GPS, Wifi, or any shield you may think of!
+A complete IoT kit that includes all the hardware, software, and cloud infrastructure needed to quickly build a wireless IoT system.
+The Smart Pi expansion module extends the Raspberry Pi with interfaces to measure voltage and current and turns it into a smart meter.
+The Naked Pi is a customizable engraved transparent case for Raspberry Pi B+ that allows you to enjoy the beautiful details of the Pi.
+theOUTlet doubles the amount of outlets where you need them, when you need them, with the simple push of a button!
+Python programming language with standard API for ubiquitous ESP8266 WiFi chip, optimised and well supported.
+ATLAS 3D is a 3D printable laser scanner kit based on the Raspberry Pi.
+Cortex-M3 Dual-core Arduino board,it contains low power wifi module,high quality MP3 decoder,supports  Arduino IDE and Scratch.
+DIY Drone X frame from LEGO® Bricks. Fast agile, high flying GoPro carrying lightweight drone.  A DIY project with fun in mind!
+Connect retro controllers to our smart new open source device and you can enjoy plug & play gaming across a multitude of systems.
+Cheap,WiFi enabled IoT dev kit comes with case/enclosure. Arduino and NodeMCU compatible.Add WiFi to Arduino modules/TinkerKits.
+Imagine putting together home automation projects with easy to use DIY open source modules that save energy and make life awesome.
+The VFD clock uses IV-11 vacuum fluorescent display tubes to display the time ! The tubes are underlit by leds & can be coated in blue.
+The Arduino compatible board to take your projects beyond your home and garden. Anywhere your imagination takes you.
+An easy, fun, and educational kit that builds STEAM skills and grows from a soldering project to a friend you can program.
+GVSDuino - Take your Arduino project from breadboard to application
+Danyboard M0 is an open-source  electronic prototyping platform equipped with an MCU 32-bit ARM cortex M0+, Wi-Fi, microSD reader etc..
+Unsere Vision ist es, das Programmieren lernen leichter zu machen. Das ist dabei rausgekommen. Jetzt brauchen wir Eure Unterstützung!
+The Pixelduino is a tiny Arduino-compatible microcontroller with a full color 1.5" OLED display + MicroSD built-in!
+3 axis motion gyroscope sensor, based on Arduino Pro mini board with Atmega328p microcontroler.
+Typically it takes months and $$$ to app-enable embedded products. Now with Smart.IO, you can do it with minimal effort for just $16!
+The Nixie Clock III is designed for the very large & beautiful IN-18 nixie tubes. It uses these cold-cathode tubes to display the time.
+BluBug wireless programming &  IoT device : Multiple arduino shields integrated into one.
+A Bluetooth Programming/ Communication Shield for Arduino projects and robots.
+Industrial controllers are expensive and tough to program. This WiFi IoT PLC solves that. Priced right. Feature rich. Build anything!
+This fun set can be reprogrammed, and it comes with four programs complete with fully commented Arduino code! A great gift for anyone!
+An electronic product used for characterizing lithium 18650 form factor battery cells and reporting optimal pairing data to the user.
+A nifty DIY project for the car/motorcycle enthusiast to help keep their engine throttle bodies/carburetors in synchronization.
+Easy I/O Connection Cape for the Beaglebone with Analog buffering, GPIO with power/ground and 5V translator.
+Watch time fly with the Tempus Fugit, a simple word clock kit, for your Raspberry Pi Zero or Arduino Nano
+The motion sensor build-in Wi-Fi hardware. User can create their own motion detected application.
+With dual-core Cortex-A72 and quad-core Cortex-A53, ARM® Mali-T860 MP4 quad-core graphics processor, supports dual cameras
+Pi Cubes is Modular DIY/Hobby HVAC Automation system based on the Raspberry Pi. Supports up to 24 I/Os and 4 Thermostats.
+Connect this bad-boy to your Arduino, and have your UNO talking to you FAST!  Create sentences, statements, and comments with ease!
+Originally designed for dynamo-equipped bicycles, Dyna-Snap magnetic connection is a great solution for many low voltage applications.
+This card lets you easily connect external 5V devices to your Raspberry Pi Model B and from there onto the Internet of Things
+The Oscilloscope Clock II is the next scope clock project using a new pc board, OSC5.3, to supply higher voltages to drive bigger crts.
+Learn Arduino development by creating over 15 mini projects with step-by-step guided video instruction and a custom learning board.
+SparKit wishes to produce kit-set Wimshurst Machines (Electrostatic generator) for educational use which are simple, quick and reliable
+Arduino Uno compatible board with 3.3V levelshifter for I2C, SPI & SerialSRAM, Shields: Wi-Fi, Environ. Sensors, switchable Power Plug.
+Introducing the most sophisticated beer pong table kit ever! Completely open-source and fully customizable!
+A Wi-Fi 802.11n + Bluetooth 4.1 (Dual Mode) add-on board for any Pi model with the 40 pins GPIO connector including Pi 2, A+ and B+
+Ultra Low cost 4 Channel 300KS/s Oscilloscope - Arduino compatible and designed to complement the DIY test bench while being affordable
+Want to learn how to actually use a Raspberry Pi?  Learn how the 40 GPIO pins are used.  Take the step from Arduino to Raspberry Pi.
+Easy Access to Ground; Big Component Pads; Arduino Dev. Boards Compatible; User Friendly Interface
+The Joey is a little LED display that sits off the side of your Pi and works with all your other add-ons.
+Power your 9V or 12V device from USB port!
+A build-it-yourself computer and electronics kit for girls to code, build, invent & animate. Easy as Pi. For ages 8 & up.
+BAL - An easy solution to streaming high quality audio, and Bluetooth development.
+Learn electronics by attaching parts onto a printed diagram. It’s easy and fun, like building a puzzle!
+The ProtoZero is a prototyping board for the Raspberry Pi Zero
+'YES' to beautiful designed electronic components: rapidradio is the cutest RaspberryPi radio ever! 2.4GHz ISM band. Arduino adaptable!
+Screwduino is an Arduino UNO compatible with Screw Terminals and great mounting holes
+The Button Board makes adding push buttons to electronics projects a breeze by eliminating headaches and adding useful functionality.
+Walkie Talkie Duino is an Open source Wireless shield for Arduino that can send Data and/or Audio like a real Walkie Talkie
+PIIO is an Digital & Analog Expansion Board for the Raspberry Pi.
+Featuring a 32-bit 48MHz ARM Cortex M0+ processor, the Neutrino 2.0 is fully compatible with the Arduino Zero!
+A clean and professional design with this small but versatile PCB based on Atmega328P Arduino Pro Mini board.
+The world's first integrated and open-source solution to use NFC in Python and create autonomous NFC devices with an ARM micro!
+Arduberry unites Arduino shields and the Raspberry Pi with a simple, inexpensive hardware solution. Slide on, copy your code, and go.
+Create your own smartwatch, remote sensor tag, or sophisticated home controller with this small, sleek, BLE-enabled, low power dev kit.
+Learn to build and program an Arduino, the easy way...  DuinoKit includes parts, wires, instructions and microprocessor ready to build!
+$8 Main board. Professional Quality. Easy to build - plug in modules & speakers. Powerful - up to 20 Watts. Bluetooth / WiFi /  Line in
+This USB port allows you to take your Raspberry Pi on the road without bringing along a Monitor, Keyboard, Mouse and power supply
+Control up to 3 servos, 2 LEDs and read 3 switches from a Raspberry Pi
+The Nixie Clock V: an improved version - RGB leds provide multiple color choices and optional switching power supply with lower profile
+A smart interface that allows you to build your own powerful and portable mobile device charger.
+Originally created for escape rooms, this Arduino compatible unit can control AC devices, electromagnetic locks, and other circuits!
+Easy I/O Connections for your Raspberry Pi
+Open source and featuring a fast 32-bit 48MHz ARM Cortex M0+ microcontroller, the Neutrino is fully compatible with the Arduino Zero!
+SmartiPi Touch is a super sleek stand for the official Raspberry Pi touch display. Camera functionality, wall mountable, and HAT ready.
+Colourful soldering and coding fun for your Raspberry Pi, BBC micro:bit or Codebug!
+The Wombat board is a prototyping solution which makes it easy for makers to design and build devices for the Raspberry Pi
+12 incredibly useful and rewarding Raspberry Pi tools and solutions for Tinkerers and Makers of any age and experience
+Melts solder and recharges from a USB port! Ergonomic design. Replaceable tips. Easy-to-use!
+If your Arduino project fits into just a few I/O pins and not too much memory you may want this ATTiny85 based card
+The Nixie clock uses cold cathode neon filled tubes to display the time.
+Easily build reliable, high quality electronic circuits.
+Build your own Pi-powered wildlife camera to capture stunning photos & video to help monitor wildlife as a community of digital makers.
+iv-Robotics presents the first electrical components compatible with all types of microcontrollers for use with a Breadboard & Arduino.
+A single AA battery provides voltages of 5V or 3.3V for hardware prototyping.
+Ultimate I/O Hat for the Raspberry Pi (A+, B+ and Pi-2). Connect your 5V devices to this Raspberry Pi daughtercard.
+KeyDuino is the easiest way to build an NFC project with Arduino environment
+Access the files and programs on your desktop computer anywhere, any time without leaving it on!
+Featuring a 32-bit 48MHz ARM Cortex M0+ w/ 16K of ram the Tau gives you a lot of bang for your buck!
+A very small Open source Digital Walkie Talkie project made based on ATMEGA8 and a well known RFM12B RF module to send & receive voice
+Plug and play sensors and modules for your next Raspberry Pi Zero connected device project.  Make IoT Hardware Devices Effortlessly.
+ZelosLaser Cutter in the 2. generation is Sturdy, has a compact design and presents the perfect entry for the daily hobbyist.
+This nixie clock project uses IN-12 (end view) nixie tubes backlit by RGB leds. It can be built as a wall clock or a table clock.
+Raspberry Pi Multifunction Hat Board IRP-102 Offers RTC, ADC, LCD, RS232/485 And More
+Charge and Analyze NiMh Batteries with 18-bits of Resolution (Now 100% Arduino Compatible)
+Affordable, fun & interactive kit that teaches you how to solder as well as writing code. Learn how Infrared, RGB LEDs and sound work!
+Get a precision adjustable power supply for all your electronic projects.  VoltWerks provides very-low noise 0.8-10V power.
+Program your chips, and make your own circuits with these Arduino based projects.  I'll be making several educational videos as well!
+This set offers count up & count down modes, a score keeping mode, and a countdown timer mode! Control it with your Arduino !!!
+Plug, program and prototype your favorite ATtiny chips with the Chipper Shield - compatible with an Arduino or AVR programmer.
+The Inexpensive, Arduino and Amicus18 Compatible, Direct To USB Development Board.
+Enables Arduino projects to communicate with Bluetooth Smart (BLE) devices such as the iPhone 4s or the new iPad without Jailbreaking.
+Love soldering? Love getting parcels in the post? This campaign is for you! And you'll learn a bit about electronics, too!
+Electric bicycles are fast, efficient and fun! And now you can convert your own bicycle into an electric bicycle with my e-bike kit!
+Dimmable accurate 6-Nixie Tube Clock with 2-year battery backup. Individually CNC-cut thick cast acrylic glass for this timeless piece!
+Get up to 18V from a low voltage input, like LiPo or AA. Instant, live output control. All in a tiny, plug-and-play module.
+A powerful tiny circuit for all your needs... ARM® Cortex™ 50Mhz, UART, SPI, I2C...programmed using the mbed™ online compiler IDE
+Thinking about using Arduino to automate your home? Do it easily with our compatible board!
+A fun, festive GPIO add-on kit for your Raspberry Pi!
+A simple electronic dice kit. Just shake the dice to roll.
+Arduino Controlled, Color Changing, Build Your Own Flying Disc Kits
+Quickly, easily, and securely connect your Arduino Unos, Leonardos, Dues, and Megas to the outside world.
+Power your DIY projects with a single alkaline cell. VBOOST fits in a bottlecap.
+T&H probe - For Arduino & Raspberry Pi; DIY platforms etc and Arduino Probe shield. "Makers"'s Climate Control project, quicker & style
+HamRadioNow will produce online video of the complete 2014 ARRL and TAPR Amateur Radio (Ham Radio) Digital Communications Conference
+Watch signals propagate through basic digital circuits. Emulate any two-input logic gate using just one rLogic board and one jumper.
+Train this Arduino compatible unit in minutes!  No PC or phone is needed!  Easily program and re-program new voice commands!
+A customisable RC controller for radio and infra-red controlled electronics projects. Anything from scale vehicles to robotics.
+The AquaPlumb measures water levels with no floats or moving parts, using only a simple wire line.
+Make your Arduino project wireless in minutes, with the Open Source Wireless Inventors Shield.  No setup needed.  500 foot range.
+Bring music and sound responsiveness into all your Arduino projects easily, with the MSGEQ7 Breakout Board!
+uStepper incorporates microcontroller, stepper driver and absolute encoder in an ultra-compact design fitting on the back of a stepper!
+A smart and easy way to learn about sensors and actuators and their real world applications using interactive hands-on projects.
+Esus board; a new small powerful robot controller board with  the ESP8266 Wifi microcontroller. 100 % Arduino Compatible & Open Source.
+Compact and affordable breakout with 128 x 128 pixel full colour 1.5" OLED display. Compatible with Arduino, Raspberry Pi, PIC etc.
+The wireless modem you've been waiting for. Works with Arduino & other micros. Open source mesh networking base. FCC Certified. Cheap.
+Do you develop Arduino based projects? Garagino is cheap, compact, solderable to PCBs, attachable to breadboards, and much more...
+Waterproof stereos built from surplus ammo cans, 7.62x51 cans, Marine speakers, 40 hours of play time, bluetooth any color.
+Aurbee, the Arduino compatible, distributed, wireless, micro controller!
+Learn everything about the science, construction, and operation of a coil accelerator!
+First Software Open-Source PLC 
+(Arduino-Compatible) - CE & UL certificated - to control your Internet of Things
+Everything you need in one neat little box. Fun to build, fly and fix.
+Always wanted to build your own spaceship? This is your chance! The book that will teach you how to launch YOUR DIY spaceship!
+Minion is a small, low cost dev board with a wireless radio, ready for the Arduino environment with no need for your own Arduino board.
+Novi is new, simple security for renters and home owners. Feel secure about your home without complexity, contracts, or monthly fees.
+The "Blink Master" is a fun way to get anyone interested in technology through soldering! The project has seven games to enjoy!
+Raspberry Pi based text-to-voice
+Makes it easy to add a voice to any Arduino, Gadgeteer or other microcontroller project
+Teensy 3.0, an affordable 32 bit ARM Cortex-M4 board, for development in Arduino or C/C++.
+This set is production-ready!  Pledge to a DIY kit or assembled/tested set!  Manipulate your voice, and customize with ease!!!
+Kits for learning electronics through hands-on activities including  making a space invaders game. Basic, Arduino and robotics kits.
+A tiny Cellular development board that gives you Wireless Worldwide.  That means internet to anything anywhere!
+Brand new reproduction XC GS/GXL flexi-circuit. Produced in 0.15mm fibre glass . Traces as per original 1970s design.
+UART HAT provides two additional serial ports with flow control and an RS232 - TTL  converter for Raspberry Pi All Versions
+"Indiepedal" is a student project which aims to design and build a working prototype of a human powered sustainable energy generator.
+The MicroView is the first chip-sized Arduino compatible that lets you see what your Arduino is thinking using a built-in OLED display.
+The WHIZZKIT Electronic Builder's Kit is designed to give hours of fun and a pathway for anyone wishing to get started in electronics
+A small gadget to upgrade your night cache. If the cacher triggers it with his flashlight, a LED will flash a predefined sequence.
+A £6 LED board for the Raspberry Pi, ideal for beginners and those wanting to learn to solder and program. Brilliant for education.
+An open source tracking device based on the Arduino platform.
+Pixy is a fast vision sensor you can quickly “teach” to find objects, and it connects directly to Arduino and other controllers.
+WiFi Quad Relay Board with ESP8266 to control upto four AC/DC appliance with Android App. Can Program using Arduino IDE
+These Arduino compatible modules are production ready, and can easily compliment your home projects!  Check out our detailed videos!
+Simple LED tester and LED polarity checker.With a Built in battery tester, It can be used to check 1206, 0805, 0603 and 5mm LEDs
+This AMAZING laser tripwire system is production ready, has MANY modes of operation, and is Arduino compatible!  Lots of reward tiers!
+Fargo is a control and monitoring system utilizing a built-in web server to control your electrical system over internet.
+Vigek IOT Core is a smart IOT platform that can take photos. It can meet all the needs of DIYers, engineers and product managers.
+A geek chic clock that displays the time with bright, vibrant LED lights mounted on a minimalist circuit board display
+An Arduino compatible Wi-Fi shield. Easy to use, breadboard friendly and low cost. 5V compatible. Uses the ESP8266 module. Easy IoT.
+Let's break some expensive technology and put the videos on YouTube!  Take that, technology!
+Embedded security - is it an oxymoron? Learn the truth through a series of hands-on labs targeting computer and electrical engineers.
+The most affordable Desktop CNC Router: Using off-the-shelf parts to put CNC technology into the hands of engineers and hobbyists.
+Old-school crystal radio kits disguised as pizzas, designed to teach fourth graders (and anyone else) the basics of how radio works.
+RFduino: A finger-tip sized, Arduino compatible, wireless enabled microcontroller, low cost enough to leave in all of your projects!
+EcoFan is a Smarter, Quieter, Cheaper, Efficient Bathroom Fan, Arduino+PC-Fan powered, 433 mHz RF remote module built-in. Open source.
+Konekt Dash is a cellular dev kit (Arduino/Pi/+) powered by Konekt's global data plan (100+ countries) & Cloud (pub/sub/store/route)
+Microduino is... Arduino compatible + Small size + Stackable pin-out + Various extension modules + Open source + Low price == Awesome!
+Build it with no shields, no wires, no mess & no sweat. Rugged. Simple and powerful. Easy to use. Fully open source Arduino WiFi PLC.
+The ZelosLaser Engraver is affordable, has a compact design and presents
+the perfect entry for the daily hobbyist.
+YoungBoard — A new transport for sustainable development by Center Young GmbH.  We are a new start up company and need your support!
+Learn to create interactive projects using common sensors!
+Need extra GPIOs?  New I2C GPIO extender!  Need to switch batteries or Solar Panels?  New Quad Power Management i2C Board!
+This module interfaces easily with your PC & computer speakers, and mixes funny/scary sounds into the line. IT ALSO MAKES A GREAT GIFT!
+Monitor remote devices using cellular phone SMS text messages when you don't have the luxury of the internet.
+For years we manufactured the ARDUINO in Italy. Now we created a new Open System: modular, scalable, the world's cheapest and smallest!
+Coin cell operated Arduino Compatible board with Color Display and Accelerometer.For Games,Gadgets and Smartwatch (Wifi,MicroSD Add-on)
+Arduino based  prototype PCB  for ATMEGA328P
+Take that Arduino Project one step beyond a temporary breadboard with Proto Arduino!
+Smart Switch Open Source ESP8266 WIFI with Attiny85 (Arduino Bootloader) for IOT & Home automation with Android App
+Sleev is a revolutionary new product that will cover the joints of your wires to help protect them against wrinkles and other damages.
+Connecting cannabis home grows to the Internet of Things and creating the first open source community for cannabis growers!
+Solar Array Wind Turbine: Self contained, three phase, hybrid renewing generator.
+Low cost complete kit that uses solar+wind to end your home's fossil fuel dependence and save you money!
+110 watt high efficiency cob led grow light.
+It's an electromagnet from a solar array, an electromagnet rotated by a solar array shaped to be a windmill. Amplified co-generation
+I want to create a system that anyone can build, to produce and store solar energy independent of grid connections.
+Save Money and time by Burning your own BootLoader's onto Atmega Chips In Seconds with ease.
+Officially supported by Arduino IDE
+I used to do art projects from E-Waste I would like to start doing those again. I made a really neat clock.
+The more Sun, the stronger the Electromagnet, the more Wind, the more the Magnet spins.
+Melts Lead-Free Solder! Lasts hours and recharges from a USB port! Open Source Hardware, lightweight, fast, cordless, easy-to-use!
+Build your own Raspberry Pi powered Touchscreen Digital Camera complete with interchangeable lenses!
+BITalino is designed for anyone interested in building self-tracking applications based on information from your body.
+ATTiny board with useful prototyping area
+The Useless Can is a DIY kit for everyone. It contains 45 pieces that you assemble without soldering to create a fun mechanism.
+Makeosity's young makers engineered a high tech energy scooter with portable generator to charge iphones and other electronic devices.
+Get both girls and boys learning tech by building their own tablet-interactive toy. Connecting virtual adventures to the real world!
+PiSolMan is a highly efficient Solar Module for continuously powering Raspberry Pi while monitoring power consumption & battery state.
+Easy to use wireless device for building the IoT.  4 mile range.  5 year battery life. Works with hundreds of sensors and devices.
+Maximize your breadboard experience and bring your design to life.
+The field phone module allows normal telephones to work as a privately wired communications network. Great for emergencies or just fun!
+A Hyper Island project combining Food, Music, and Digital Technology to answer the question:
+Phenox 2 is a programmable drone for your creativity. More intelligent, more interactive and more programmable platform for everyone.
+Liteseeds LED stickers are tiny, bright, little LEDs made in the form of a sticker. They are peel and stick lights! Safe & easy to use.
+An electronic circuit construction system that aims to bridge the gap between learning electronics, and inventing electronic products.
+The Pixelduino is a tiny Arduino-compatible microcontroller with a full color 1.5" OLED display + MicroSD built-in!
+Oh Eye is 16 analog inputs for Raspberry Pi. The Brickbridge is a microcontroller for bridging Mindstorms projects and other sensors.
+Built from an easy to assemble kit the D.I.Y. Multibox PC is the perfect  [work|play|hack]-space accessory.
+The only Full Tube, 100% Analogue, Modelling Guitar Amplifier.
+Totally Analogue, controlled by your Phone-Tablet-MIDI board.
+Now everyone can build their own 3D Zoetropes
+Raspberry Pi powered Nixie Tube Calculator using IN-12 Nixie Tubes.
+Versatile, CAN-bus capable, Arduino compatible, open source controller for your car, boat, home, robot, etc.
+Holiduino Flake is an easy-to-program, seasonally-themed, Arduino-compatible ornament. It’s unique, fun, and educational!
+tweeq is a powerful and open micro-sized arduino compatible platform, with a whole range of teeny tiny add-ons!
+Make your own light-up pop-up greeting cards with these educational kits. A fun way to learn simple circuitry and paper engineering!
+A modular uninterruptible power supply. Logs running stats and extendable through user code. Runs as a cape for beaglebone black.
+A Morse Code training device based on a RaspberryPi B+ and 64x128 Graphic LCD screen mounted in a small wood case with telegraph key.
+Professional service with a outstanding and driven attitude to bring high end Home theater installations and all PC/Mac repairs.
+No experience necessary. Millions of technology-based projects.  Learn coding, science and engineering. Create DIY devices.
+Please help fund the build of a realistic-looking Borg Cube to drive in the DragonCon parade over Labor Day weekend 2016!
+Swing Blade Skateboards does tricks,climbs hills and inclines,has 3 position adjustable rear truck and operates without foot push off!
+Make your own ultimate ammo can speaker system.  Complete with Digital Media Deck, Sub, Battery, Bluetooth, AUX input, and AM/FM Radio
+Plug-n-Play 4 Port USB hub that directly connects to the USB micros of the Pi Zero - No Soldering Required!
+The SubPos Ranger allows you to accurately measure distance or obtain your position indoors for all hobbyist robotics applications.
+9MSPS three channel oscilloscope and waveform generator. Turn your Arduino, Nucleo or Discovery board into fully featured oscilloscope
+There are so many projects on solar energy. But have you tried to make your own solar panel? EGO cell will make it easy.
+Contribute to an Eagle PCB license upgrade and receive a ULP that allows double sided circuit boards and unique shapes on CNC machines
+A rover controller built using ESP8266 IoT chip.  The project is to productize the circuit to interface with Snap circuits rover
+Smart sense LED light is an alternatives to energy saver, incandescent and fluorescent lights. It produces awesome 100 lumens per watt.
+Portable DIY ADS-B receiver with WIFI and WAAS GPS
+Kester Kits are fun, new, and innovative beginner kits that would help you get started in electronics for anyone of all ages!
+The goal is to create a cooler that doesnt need ice and can be driven on rough terrain. Large size cooler for outdoor family gatherings
+Two wires are all you need to add a user interface to any processor project. Switches, encoders and LEDs all handled automatically.
+Originals were 3D printed. Since it's first unveiling,
+it has had a lot of demand. This is a patent Pending 
+Replacement panel.
+Turn any outlet or switch in your home into a smart switch by installing an EVI InWall behind your existing switches and outlets.
+Control R/C cars, boats, planes, quadcopters and robots over Bluetooth and the Internet using your smartphone, with GPS and video feed.
+A solar USB charger for hiking and camping that you can modify any way you want. Optional 3350mAh USB battery regulates solar power.
+It's time to release a new line of backlight for DMGs and Pockets.  Help us create the best backlight ever!
+Custom LED Lighting Kits for Remote Control Car, Truck, Boat, Helicopter, Quadcopter, and more! Make your RC look awesome!
+The future in affordable, customizable, real-time monitoring of vehicular assets to prevent loss, provide convenience and add security.
+A high-speed longboard project inspired by Nikola Tesla, magnetism, and the Boundary-layer effect.
+LCD shield, enclosure, keypad. Shield features backlight, beeper, 2 relays and a breadboard area. Enclosure has room for Arduino Uno.
+An open source tool to measure capacitance and leakage current as a function of a capacitor's working voltage.
+Whats that? Colourful light. What does it do? Shines colourful. - Bluetooth controlled light, custom effects. All you need!
+The 1-2-3 simple to use grow computer. Control it remotely, or set it up with a keyboard, mouse and monitor as a personal computer.
+me and my crew need a mini maker space for our youtube young makers group.
+The QLite is a DIY handheld controller kit.  A customizable platform for controlling projects.
+A circuit board and guide to programming electronic projects in Python on the Raspberry Pi.
+GameLab is a series of electronic kits.
+A DIY website devoted to helping others living energy independent by using renewable energy systems.
+WiFi controllable motors for your many projects. An Open Source platform that anyone can use.
+Starter Kit and circuit videos that go together in an affordable way
+Simple Multi-power supply unit for Breadboard with easy to switch option between 5V and 3.3V.
+Programmable DSP Filter & Amplifier & signal generator
+mbugs™ - miniature electronic building blocks for the mbed online compiler
+A home automation solution that is feature rich yet simple and affordable.
+simple LED tester and LED polarity checker.With a Built in battery tester, It can be used to check 1206, 0805, 0603 and 5mm LEDs
+Modular and wireless development platform that allows an easy customization for almost any motion capturing task you can think of!
+Ever try to find a service provider for twisting fine film coated electrical wire pairs in any amount less than a 2-thousand pound tub?
+A book to get more young people into robotics,using simple parts to create a wide range of robots with complex behaviors,20+ projects
+Working on a way to control Aux side lights and have them work with the turn signals. I have a working prototype that needs refining.
+A universal PWM kit that can be used to vary the speed, brightness or voltage of almost anything including LED's, Fans and motors.
+Tiny self-contained board that can do automation, alerts, cellular data, phone calls, SMS text messages, and more - USB plug & play
+WiFi-MCU is developed based on EMW3165.Run the Lua script directly, Operate hardware resource, Achieve product prototypes.
+If there is a bit more than a breeze at the top of your roof you can capture that energy.
+LED Insert Kit,  changes energy draining bulbs to LEDs is Green on energy and cost savings to consumers, brighter light for 
+less $$.
+The DIY Headphone Kit is an interesting and cool way for children and adults to learn about electronics and electromagnetic induction.
+The perfectly fun and educational kit designed to inspire industriousness, creativity and physical activity!
+We want to create a small "power shed" to allow people to use electronics but not have a loud generator running.
+A simple device that uses a calming pattern of light to help users fall asleep by training their breathing
+Stumped on how to make your robotics project move? Now you can create complex motions and control logic without writing any code.
+Basically I want to develop an application thats transmits a string of text to a FM transmitter that is connected to the soundcard.
+NoiseJack: Blocking out annoying office chatter since 2014!
+Both entertainment and education. Using PICAXE MCU, allowing user to write BASIC program to read sensor status and control the lights.
+A Anpr camera built around the raspberry pi and the noir camera
+Solar Green Energy to Build a Server Farm and help Save the Planet
+Domotics Kit is an integrated solution for automation, security and energy efficiency, based on Arduino, Udoo and Raspberry.
+The supercharged modern food producing machine that anyone can build along with us. Will be Built by a pro, and designed for anyone.
+Rabbit ECU is a low cost DIY automotive engine controller that features a powerful ARM processor and on-board wide-band sensor driver.
+Robo-Tank is a DIY aquarium controller for freshwater, saltwater or reef tanks from 20g - 600g. Control LED's, ATO, PH, EC and more.
+Lavadora que posibilita, simultáneamente, lavar 2 tipos diferentes de ropa, gracias a su sistema de doble tambor en paralelo patentado.
+OHMkara is a bread-boarding multi-tool. Back us today and help us turn at-risk students into the next generation of makers and doers!
+Complete electrolytic capacitor sets to bring your old amplifiers (and other devices) back to life!
+Circuit Armour will take your DIY electronics project from the breadboard to a professional looking, sealed product in under an hour.
+Tiny CMOS/TTL to RS232 converter. Accelerate your electronics prototypes and make communication easier than ever before!
+CNC Machined Aluminum Enclosure for your Arduino
+Always handy small but versatile power supply for everyday work with low-power electronic projects
+Helping unlock the potential in disadvantaged students through the art of coding and with the help of Raspberry Pi!
+KegCop is an open source iOS application designed to make your kegerator smart.
+The "Youth Quad" is a learning opportunity for youth in underrepresented areas to design and fabricate their own inventions.
+The Extended DAC Shield is a high-speed, high-precision, eight channel, -10V to +10V analog output shield for the Arduino.
+With the advancements in LED technology and modern epoxy resins we can build up to 9000 lm lights using only 100 watts of power.
+Make your own smartphone controlled solar collector, with recycled soda cans, based on a raspberry pi.
+Learn to automate your garden at home with an easy & safe DIY project kit using open-source Arduino modules.
+The TCC-13, TCC-13H, TCC-13B Amps. Hand-made Quality Grade A and RoHS Compliant Amps. Designed to revolutionize electronics and sound
+A free and open source automatic temperature controller for use in cooking with sous vide, BBQ smokers, and more.
+iSurvived is for emergencies when your device accidentally gets dropped in water. Use our nanotechnology and save the rice for eating.
+Transform your Arduino-based, proof of concept into a scalable prototype, ready for manufacturing.
+With an IR remote and the IRS5, wake any home theater PC from a complete OFF state (S5) then control it. No special drivers needed.
+A Spark Core based, sensor for noise, temp, power, barometric pressure, UV/IR, illumination, soil temp and humidity, motion and more.
+A smarter Arduino.  4.3" touchscreen TFT display, speaker, battery, SD card socket, XBee socket and more. All in a smart designer suit.
+Culbox is an Open Source Wrist Watch for Arduino with built in Bluetooth and bunch of Hi-Tech sensors and tons of features for Makers
+TESPA is a complete IoT development platform help you to create IoT solution within a few minutes.
+A battery powered 3.3v, 5v, or 7v supply for Arduino, PIC, MSP430, and all your electronic projects.
+The ioXtreme CORE is a robust modular mounting system for IOT Controllers e.g Raspberry PI, Arduino, Beaglebone.
+Rosetta is an easy-to-use hardware platform that integrates many different technologies, such as Bluetooth v4.0, Wi-Fi, USB and HDMI.
+The NifteeSupply -- where connectivity, simplicity, and portability come together to form the perfect tool for your next project.
+New PlierTek All in One Universal iPad iPhone MacBook frame repair tool kit is the must have tool for every Apple repair shop.
+Berdikari is efficient and easy to use, RFID emulator
+I want to start a free youtube education vblog which is all about electronics, tech, gadgets and much more.
+[EN] The first smart and autonomous Arduino based garden!
+[FR] Le premier potager intelligent et autonome à monter soi-même!
+The design is a versatile highbred. The project is to make a reverse-trike that will allow someone to use an electric engine or a motor
+The option for any type of glass/window to be transformed from a transparent state to a haze by the use of a film we call "Smart Film"
+Carpet "Lummi" follows your steps with light at night. In your house, wherever you go, the light always follows you automatically.
+The LongPixel is a chain-able board that turns a strip of Analog RGB LEDs into a giant, digitally-controlled LED.
+easy sleeve is a handy little earth sleeving dispencer that will hold upto 30ft of sleeving for the ease of earthing your copper earth
+Simple LED tester and LED polarity checker.With a Built in battery tester, It can be used to check 1206, 0805, 0603 and 3/5mm LEDs
+Open-source 16 PWMs, 8 ADCs and dual-voltage communications to sit on your Raspberry Pi to drive your quadcopter, robot, 3D printer etc
+StickyBUGs are small, modular boards that enable you to quickly make your own Arduino shield, with no wiring or soldering required!
+EdCar is a one-of-a-kind learning experience. The goal is the car, but the knowledge gained will fuel your future adventures.
+Learn programming with this digital simulator - 8 ins (buttons) and 8 outs (LEDs) to connect to Arduino, Raspberry Pi, etc.
+Cool Buttons are pro-audio gear like RGB LED color lighted buttons to make your Arduino, Raspberry Pi, etc projects WAY more Awesome!
+The Starter Shield plugs directly into an Arduino Uno and teaches beginners how to program sensors and other components.
+Solar energy is an important part of a more sustainable society. Here's a great hands on activity for everyone to get a start.
+Mod-Arm is a dual Arduino chip based alarm system with an LCD and a Keypad, all with battery backup. The possibilities are endless...
+Need funding for next level of production.  Lynx Wind has been in business since 2012 and profitable selling wind turbines, DIY plans..
+The VisiPort2 is a USB To Serial Module that has been designed to program Arduino’s. It's compact size is perfect for any bread board.
+Zip The Fish Pi board in combination with a Raspberry Pi, is able to make any property from a small room to a large hotel 'Clever'
+Intelligent Electronic Water Saving leak Fill Valve Device for Toilets.  Automatic water shutoff with notification alerts.
+GeoThings: built-in GPS and mobile connection, solar powered, cloud-powered, ultra low consumption and Arduino compatible IoT board
+touchIt is a precise gesture-based input device for many applications.
+Get a gadget to build - learn to code it with my help - help me teaching my students with these kits...
+Create your own pixel LED animations using our Pixel Maker App and download it to our wearable matrix (or let us download it for you)
+Experiments with Computer Architectures for Kids and Students aged 9-99
+Solid & Durable Electro-Mechanical Telegraph Kit for Classrooms, Students, and Hobbyists. Made in a USA Home Factory from Wood & Metal.
+The most simple and affordable DIY solution that offers 24/7 protection from fire, flood, carbon monoxide, and freezing temperatures.
+Dimmable Accurate 6 Nixie Tube Clock with 2-year battery backup. Individually crafted thick cast acrylic glass for this timeless piece!
+Add ZigBee, Z-Wave, Bluetooth, and Wi-Fi to your Raspberry Pi and BeagleBone Black with on-board sensors and an easy cloud API.
+My Dream is to bring back the Classic 1960`s British record players  There is No Affordable record players made in Britain any more
+Get rid of IR remotes, control your LED strips by WiFi from everywhere
+This is the next generation in Home Automation, improving on nearly every aspect of existing Automation Systems
+The Starter Shield for Arduino is the best way to test the possibilities of the Arduino for a beginner. This is an open-source project!
+Control LED lighting in separate areas and zones as though they were connected, with the Wireless Quattro 4 Zone LED Lighting Control.
+Your imagination + Arduino Uno compatible + Perfboard. Reuse all existing shields.
+STEM Circuits links the elements of Science - Technology - Engineering and Mathematics to foster an interest in STEM Careers.
+iPhones have very specific screw placings in their cases, and DIY repairs are often difficult. How do you solve that issue? MyHolder!
+The Raptor 190 FPV Quadcopter is an aggressive little beast. The Pro version has Carbon Fiber main plates with a PETG spacer.
+A stage of development of a Instrumentation loop amplifier that will see 4 Amplifiers in the space of the current working prototype.
+UIC Senior Design project group seeking funds to build a drone that will revolutionize civil engineering inspections.
+Want to build your own lithium batteries? Now you can build a custom lithium battery of any voltage and capacity to fit your needs!
+The Arc-Controller is here to give power to the Maker by bring high Amp motor control to your projects.
+Everything you need to repair your iPhone in case of disaster, your last resort, go to kit for DIY iPhone repairs.
+The DoorGreeter App greets customers every time they enter! To change the tone, open DoorGreeter App and select the new sound!
+Programmable DSP Filter with 7 programmable 2nd order IIR hardware filters, also Digital waveform generator .
+conception, design and building of high quality handmade guitar pedal effect and accessories.
+Robots are not that difficult. Make your own today. PVCBot is here to help you.
+Want to get your hands on future IoT without busting your budget? Get Badgerboard - Arduino compatible LoRa® development board!
+Curbbie is designed for Do It Yourself (DIY) install using sensors to detect and warn you when you are within inches of a curb.
+So you've been training, but do you know how much time you need to launch the tsuki or geri? Here's the answer, plus: YOU CAN BUILD IT!
+Take your Raspberry Pi HAT off or build a better LEGO® compatible Raspberry Pi A+ case. Harness the power of the HAT.
+Add User Friendly Widgets to Arduino or any other Microcontroller (i.e. PIC, Atmel, PSoC, AVR, ARM) based Systems
+Convert your car's horn into a musical one with this DIY kit. So easy to install anybody can figure it out.
+Raspberry Pi Zero USB hub, breadboard and voltage regulator, fits perfectely in an optional cap rail enclosure.
+Get the power your devices crave from almost any source: batteries, laptop bricks, wall adapters and solar panels.
+Researching the feasibility of at-home hydrogen production to fulfill transportation needs in a high-pace society.
+Need to up grade operations to meet market demand at a faster rate.this money will alow us to meet that demand and keep low prices.
+Provide a safe, reliable, modular BMS comprised of OEM-grade components in a manner which maximizes user application flexibility.
+bug-I is all you need to begin your coding journey: Arduino™ compatible board + PlayBoard with fixed components + fully online training
+An educational platform designed for the Texas Instruments LaunchPad ecosystem with particular emphasis on the  MSP430 LaunchPad
+I would like to use my experience in the marketing/advertising field to provide a simple way to find meal options.
+SPOILMEKITS were design for "SAFETY FIRST" in mine.and are the BEST sequential lights on the market today.(very easy to install )
+The most simple and affordable DIY solution that offers 24/7 protection from fire, flood, carbon monoxide, and freezing temperatures.
+Wireless & Independent ready to use IoT solutions (ESP8266 or Arduino) with WiFi or GSM/GPRS support on the micro sized PCB.
+A table top accessory that makes your desk look and smell its best
+Your Steps, the number of useless mailbox trips you've made in the past, only to be greeted by Junk/NO mail "IT'S OVER MAILMAN"
+Light plates to fit the Hammond 1590B enclosure. The light plate is used with an LED to create a "Halo" of light around the base.
+An Arduino-compatible shield to let you monitor ambient conditions in your home, office, or workshop.
+Complete project solution: Enclosure, LCD JEMshield++, keypad. Built-in Arduino reference design! Just start writing your code.
+The Magzor Design Platform simplifies robotic design by automatically configuring hardware and software.
+Ever try to find a service provider for twisting fine film coated electrical wire pairs in any amount less than a 2-thousand pound tub?
+PiJack is a simple "shield" board which adds 10Mbps ethernet conenction to Raspberry Pi Zero in the most convenient way possible.
+Persistence of vision display. This creates similar effect like light photography but in real time.
+Breaking the stereotype by encouraging and empowering girls in STEM (science, technology, engineering, math) fields.
+Raspberry Pi micro-computer, safe venues to learn and enjoy, for "at risk / under privileged" kids in Kc MO and Kc KS.
+We will be creating an intense self playing drum set using micro-controllers, actuators, and lines of code using Arduinos!
+Homemade wind turbine designed to charge a battery and in turn charge a smart phone. Will also create a melody when spinning.
+Self install factory look alike after market cruise control kit for the Chevy Trax LS, Chevy Cruise LS, Sonic LS and Spark. For $350.00
+Curb LED is a replacement for neon open signs and sandwich boards that are currently used by retail stores to get your attention.
+Two Dads with one vision to change the world's thinking about pedal powered power generation. "Contributing in a useful way".
+KidsFix-it teaches kids how to problem solve, enhance cognitive thinking, and find value in objects others may disregard.
+Insta Glass is a quick and easy iPhone repair kit that uses the same materials as windshield repair companies at a fraction of the cost
+Outdoor LED flood light system with simple wiring and connection solution helps homeowners connect outdoor wiring in about 5 minutes.
+100w led flashlight that looks better then my prototype would like a 12 volt step up instead of my 34v w/ step down and a 3d printer
+Leftover lenny is a light activated voice recorder attached to food containers reminding user of stored foods left in fridge/pantry.
+A Reef Controller that gives the power to the user, allows your reef to be left without worry, and can be shown off to its full extent.
+Liberating Humanity from Oil and Banking Cartels One Free Energy Device at a Time!
+A simple tool for a simple job - conveniently reset all your consumer electronics without having to find and destroy paperclips.
+The μHack (aka. uHack and microhack) is a very small, arduino compatible micro-controller designed to bring DIY hacking to everyone!
+charging system using centrifugal force. this can be accomplished using each axle as a station set up with a charging system w/inverter
+A USB socket which can be simply mounted in car dashboards to charge phones etc, and also used on workstations to keep wires tidier.
+With the Jet commander, schedule your sprinkler's start and stop times from your smartphone. Connects easily with standard sprinklers.
+Modee is a simple and durable Raspberry Pi2 case. Modee can be "bolted" to other Wellbro products or any of your own projects.
+A fourth axis to my CNC machine for my business to keep up with the demand of wooden items that we create for our business.
+Design and control colorful pixels wirelessly to create amazing accent lights, wearables, and more!
+what we hope to achieve is a place where a person can create whatever they want. woodworking, metalworking,3d printing, electronics etc
+I am trying to create a line of drones to be used for surveillance and cinematography purposes.
+Dispositivo para avisar mediante email,sms o llamada en caso de que se interrumpa el suministro electrico,nevera,congelador,acuario...
+This Electric VIBtester is better then other because if you work is in place with a lot of noises or in sunny day you can easily work
+Plug in and have fun. Have your Christmas lights dance to music without having to engineer or program anything.
+Creations wood recowered with graft light and sound run by smartphone without special application.Each piece is unique.
+Convert your cell phone into a HUD, for your car or truck. The CarHUD slips onto your vehicle's sun visor, and holds your smart phone.
+Serve-Air is an open source electronic board. It provides an enhanced servo control to reduce fuel consumption in vehicles.
+The idea is to create a modular stackable Z80 microprocessor based board to use it as an arduino.
+Help me build a powerful 1/10 scale electric RC truck to take to a charity car show I volunteer for and help run yearly.
+This is an FM transmitter that can sweep the whole entire FM band. so you can transmit to any FM station on the radio.
+No flicker light, no infrared or ultraviolet, no unsafe blue light, against myopia, against cataract,minimize eye strain,protect vision
+I would like to build a 4 kW 20°C delta solar thermal generator to power an average home similar to a residential photo voltaic system.
+AHCS is Starting a Robotics Club! And we need your help! Help our students learn how to shape the future, one robot at a time!
+THE GOAL OF THIS PROJECT IS IMPLEMENTING A LOW COST POWER SUPPLY DIGITALY PROGRAMMABLE .
+THIS WILL BE A DIY KIT FOR EVERY HANDYMAN
+I'm modifying a house boat to be to run on solar power.  The boat will operate/cater on the Hudson River and show case solar energy.
+Educational project.. DIY-Bio,  PCR-machine for amateur bio lab, about  $50  .. universal design for experiments  with PCR process.
+To build a community Indoor/Outdoor RC car facility to promote community racing while promoting the math and sciences
+I am attempting to start a drone racing league for middle school students of the Northland Kansas City area. Please help us "take off."
+Our gadget saves warm water on any pipe. Easy DIY.
+After X number of minutes/litres it slowly shuts off the flow in intervalls.
+The worlds first Human electric solar powered hybrid vehicle designed and built for the  1991 international Energy Challenge
+Want to be the best there ever was? Phone battery just cant keep up with your poke-lifestyle. The Pok-Egg-o may be just what you need!
+I designed the initial drawing and parts list that I posted to my website. Need starting funds to get parts to build the prototype.
+A solar light to brighten your whole room and the future of families living in darkness around the world.
+My goal is to make progress in the field of electrolytic fuel production. Hopefully one day making it a more efficient energy source.
+Solar DC, Wind AC, pulsating DC amplifies AC. Current heats and pumps water to make coffee.
+diy power on the cheap and safe.
+" Save a life check twice."
+Avoid parents from forgetting their baby in the hot car
+I want to develop a safe way to decorate multiple houses in Christmas lights and synchronize them to music or with my own set program.
+Our team is designing and creating this project for our Mechanical Engineering Senior Design Project. Any help is greatly appreciated.
+The easiest way to connect electronics to your phone. Control robots and read sensors with your phone without programming firmware.
+An implementation of the EV tech currently available mixed with on board self charging for extended range and things like heat and air
+I am building a Cat Condo with multiple HD cams strategically placed. The videos and images will be saved to a server for later use.
+A LED book/notebook cover that allows you to take notes and read at dark. It is lightweight, flexible, portable, and easy to use!
+We plan to make a solar powered A/C unit, separate from the car's pre-existing one, to help prevent child and pet deaths in cars.
+Support innovation and change the world in support of freeing all from rising fuel cost. Free and clean energy is in demand.
+This DIY kit gives you the ability to light up your iPhone in places you would of never known was possible w/ hardly no Battery Drain!
+FishSplash was developed by a fisherman with many years of experience fishing, who was frustrated to see how the sea was being polluted
+This project is to help purchase a 3D printer to develop prototype moulds and parts for the PetFeedr Project which will be later on.
+Hello my name is Shayden, and I wish to bring you a new way of pre-built custom gaming/office/home PC's.
+Smart LED Hula Hoop with Bluetooth. Manipulate Animations during performances with your Android Phone.  What more can you ask for.
+The Electronic Sensor Trigger Timer
+is a useful hobbyist circuit that safe and easy to use.
+It serves as a control system for projects.
+Lets work together to end plug depravation in America one plug at a time.
+Super speed USB3.0 Flash Drive and dual orientation plug.
+Simple look. Simple to use. 
+New and Different.
+If you have ever wanted or imagined creating an unmatched and ungodly gaming experience? This is exactly what we are doing here.
+BLOW-FREE, a compact air conditioning system w/ solar components for small  vehicles interior rear deck.
+Help us build three exciting applications using Arduino Yun board. These applications interface with Google Docs, Gmail and Dropbox.
+lawnmower, tractor, RFID, safety, children, electronics, transmission, technology, engineering.
+I want to enhance what I have already created.  A clean alternative to solar energy. Such as the indoor wind farm I created.
+We want to build a device that makes people use solar cell as easy as AA battery.
+A miniature city for RC/Nitro enthusiast. It will include race tracks (both on and off road) and plenty of free roam areas.
+As an ex-professional gamer, I learned all things computers; coding, hacking, scripting... Learn efficient use of mobile technology!
+Changing the world bit by bit with clean energy.
+
+We like to give you the opportunity to be part of a sustainable future.
+A DIY Driverfree LED Module that goes with your idea for installation!
+I am peddling for your support of a new process of producing energy from air and water and cleans the air at the same time amazing !
+Free yourself. Start a business. Breathe easier. Love yourself again. All in 1 idea. You don't need a Harley to look cool!
+An electromagnet from a solar array, an electromagnet rotated by a solar array shaped to be a windmill.
+Cook healthy and tasty using math of parabola and ellipse.  Support Solar Man research on water, energy, food, IT, and transportation.
+Easy to install solar powered DIY kit to replace your existing pool chlorinator saving on your electricity bill.
+Birthing detector for your pet. Addik Pet warns you a few minutes before the arrival of the first baby and it's live on the net
+I have hypothesized a design of Inertial Static Confinement Fusion that will reduce conduction loss.
+It will light 2x50 W bulbs and also indefinitely recharge a 12V battery. Extended version of Maxwells eq to gravity fields r described.
+Since God likely doesn't exist, I intend to create a plan based on software that would have a single goal: manufacturing God
+Creating a fuelless emergency power supply for home or office use.
+Like a Go-Kart kit to demonstrate 4 wheel drive is possible.
+Smoke Alarm + Smart Phone = You And Your Emergency Contacts Being Notified By Text Or E-mail Of A Fire Or CO Leak At Home.
+Talk2Text tech is already in cell phones. Most students barely use it for school work. I show them how for free. They already own it.
+The goal of this project is to build and test some Edwin Gray components in the light of new theoretical approach to Free Energy.
+Backup and charging are daily tasks for most smartphone users. 
+Is there a better and smarter way to do it ? Syncube does.
+Dedicated to restoring and converting vintage American Made tube amplifiers for discerning guitarists. Completely hand-built.
+A machine that converts gravity energy (f=g), into electricity.
+I need to build at least 12 of these units,and put them into places that are easy to monitor them, for recording the daily performance
+Have been playing with magnets for a long time, I knew that there must be a way to generate power without waving magnets
+THERE WILL BE FREE ENERGY!    THE OVER-UNITY CONTINUOUS MOTION ELECTRIC GENERATOR IS REAL!
+I want to create a cotton that enhances the delicious flavors of your juice mainly the dessert ones that everyone loves.
+What if everything we believe about fuel and energy was WRONG...What if all the power to run our planet was clean energy, made from HHO
+The pDuino Nimoy is a tiny Arduino Leonardo clone.
+My partner and I, are making an electric go-kart for a science project. We are doing so by buying gas go-karts and making them electric
+For a beautiful lawn in half the time.
+Make your own mini computer at home!
+A high school student doing a non-profit project on researching coil accelerator's properties (a.k.a coilgun) is searching for support.
+Open Source, Wireless Mesh Networking. Based on IEEE 802.15.5.
+An Arduino based home automation system that integrates security, renewable energy source management and  power distribution in one.
+Blowfree provides an easier way to replace a broken vehicle AC system. The kit is ergonomic, easy to install come is various designs.
+converting Micro Electrical Frequencies  into Low Voltage then Amplifying then into High Voltage 
+that can be used to power a house
+Computer Vision Controlled Automated Fish/poultry Feeder, Let the Computer Do the Work So You Dont Have To.
+A cutting edge product for tile illumination to be used with smart phone or tablets, that is safe and easy to install
+The more Sun, the stronger the Electromagnet, the more Wind, the more the Magnet spins.
+making the daily lives of elderly and disabled people easier
+A modular system that lets you create connected devices in minutes, no technical experience required. Hackable with Arduino IDE.
+Laser Cube is an open source and economical laser engraver/cutter kit . It is so easy to use and have pleasure from it .
+Gyro + Acc + Temp Sensors in a Tiny Case that's programmable with your Phone so you can start gathering sensor data in minutes!
+DIY Wearables - Learn about electronics, create unique projects, light up your wardrobe, personalize presents, and more!
+The first hackable toy of its kind, Zubi Flyer teaches real code in a fun, simple way; it's as easy as 1,2,3 | Build, Hack, Play!
+It's fun to get parcels through the post, especially when they contain an electronics kit for you to solder!
+The ZelosLaser Engraver is affordable, with a compact design and the perfect entry for the Daily Hobbyist.
+Not just another lonely board, but the complete solution: circuit board,  display, I/O, software and rugged enclosure.
+Control stuff with your phone! The Switcheroo is a Bluetooth LE board designed to upgrade everyday devices for smartphone control.
+Smart security that's easy to use
+This is the ONLY protoboard that you'll need !!!
+Production-grade hardware and the tools you need to design, test & productize motion sensing applications.
+Beginning with an operational Underwater ROV, Simple Underwater ROV's for Young Adults encourages exploration in the underwater world.
+.
+Alarm Circuit Board for those easy quick training circuits.
+Yooquik® is the new Open Source Bluetooth® Arduino® compatible security system managed from your tablet/smartphone and cloud connected.
+A connected lever lock made of stainless steel equipped with emergency recharge, keyless entry and AES encryption security functions.
+ProtoPalette Makes Building With Arduino Easier And More Fun Than Ever Before
+The best superpower you can have is to be empowered. With Symbisa, the #IoT world is yours to own. Learn more and be part of it.
+Learn to automate your garden at home with an easy & safe DIY project kit using open-source Arduino modules.
+A wristwatch that displays the time date and alarm settings in binary
+Easy Installation ebike kit .Front gearless hub motor  .
+with li-ion battery.
+The Button Board makes adding push buttons to electronics projects a breeze by eliminating headaches and adding useful functionality.
+Build | Fly | Crash | Fix | Love
+A simple, low cost and intuitive system to invent and recycle electronics using LEGO - brick by brick.
+Genius Light uses a motion sensor to detect the motion through which it controls the ON/Off process and saves up to 90% energy.
+A low cost optical sensor board for motion tracking or gaming mice
+Build a beautiful and powerful Mini-PC with the Entropy.
+True mini-ITX case with industry standardized components.
+Tone reactive RGB LED Strip Controller.   LED's react according to the level of Bass or Treble rather than just typical noise level.
+DIY automation of your existing window blinds. Works with a Z-Wave controller.
+Do it yourself PCB's in minutes. A practical mix of DIY manufacturing from conductive ink's to CNC milling to Arduino micro's and more
+The educational robotics kit designed to be hacked.
+Save up to 30% of your energy bill. Finally, Room-by-Room Temperature Control. No more being too hot or too cold at home.
+Maximize your breadboard experience and bring your design to life.
+Melts solder and recharges from a USB port! Ergonomic design. Replaceable tips. Easy-to-use!
+If we reach goal I will be giving away a $5000 Custom Buildz computer to a donor at random.
+
+This will be an EPIC GAMING MACHINE!!
+PiCaseReOpened is a flexible, stylish and neat case for the Raspberry Pi and its official 7-inch display (or other computer displays)
+ESP8266 dev board with WiFi, Arduino, USB, webserver, 32 Mbit flash, & add-on boards for Display, Relay, ADCs, SD slot. Only $20.
+A light switch adapter that you can install yourself and operate using smart-phone!
+Stimulate their brains with hands-on construction play. Connect the electronics, build the toy and bring it to life!
+Stack USB rechargeable batteries together for power hungry projects or separate them for smaller projects with this modular system.
+RETOX NOS1 is a super low cost oscilloscope made for taking electronic signal measurement.
+An Affordable, Wireless, and Unique Touchpad for your current video gaming controllers. Simply more exciting way to play our games.
+A watch that displays time, alarm and date information in binary with provision for setting and charging through USB
+Reflow, dry, and cure with this PID oven controller. Use multiple sensors (K type, infrared thermos @ once). Graph and scroll + more!
+Make your own light-up pop-up greeting cards with these educational kits. A fun way to learn simple circuitry and paper engineering!
+Compatible with both Mac and Windows as well as smart devices MouseDrive is your secure on the go wireless cloud.
+Electric /peddle power trike with a range of up to 60 miles per charge with lithium battery technologies.
+IoT-Development made easy
+UnoSWU - All in One: Intelligent power plug + open platform to start IoT with Thread, ESP8266, ATmega
+Stack USB rechargeable batteries together for power hungry projects or separate them for smaller projects with this modular system.
+Building a gaming PC.  Need funds! HALP!
+The solderless electronic universal design tool for the last 10% of building your next project, from professionals to Maker/DIYs.
+A solar USB charger for hiking and camping that you can modify any way you want. Optional 3350mAh USB battery regulates solar power.
+WiCar is a DIY Wi-Fi controlled car that can be controlled by devices like iPhone, iPad over Wi-Fi.
+Cool your kitchen with Free AC provided by your freezer. The cooling you get saves you money on your electric bill
+We have created a Miraculous NO Water Change Sump System for Freshwater Aquariums, with Incredible Replenishing Minerals & Nutrients
+U1 (Arduino-Compatible) with WiFi plug, Clock , EEPROM, SD, buzzer, NRF24 plug, LCD, RGB led, rotary encoder, buttons... 
+ IoT ready.
+Improved for over 700ºF and melts Lead-Free Solder! Lasts hours and recharges from a USB port! Lightweight, cordless, easy-to-use!
+I believe we can establish a way to supplement electricity by the use of water. I have already started attempting this on my own.
+A technology festival in 2017 in a rural, hybrid location within North Wales.
+SPICE up you electronic project, add sensors, display, lights, memory, and more. Built for Arduino but I2C compatible.
+A Father knows - Family first. So I am trying raise some money for a computer for me. If this is successful I will do this for others.
+My Teddy Bear is a neural network powered toy that can talk to kids. Parents program what the toy says using a simple text file.
+Repair guide that holds screws magnetically when you disassemble a device with detailed repairs labeled separately on the same guide.
+A Kayewood Smartpak is a backpack with built in weight detecting technology communicating to students via their mobile device.
